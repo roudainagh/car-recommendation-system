@@ -1,0 +1,5 @@
+Experiment: Extended_Recommender
+Date: 2026-03-09 06:58:31.087641
+Params: {'model_type': 'extended', 'num_features': 25, 'use_weights': True, 'weight_body': 2.5, 'weight_energy': 3.5, 'weight_price': 2.0, 'weight_seats': 1.8}
+Results:
+  - Avg similarity: 0.742

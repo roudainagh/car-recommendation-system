@@ -1,0 +1,5 @@
+Experiment: Basic_Recommender
+Date: 2026-03-09 06:58:30.820441
+Params: {'model_type': 'basic', 'num_features': 20, 'use_weights': False}
+Results:
+  - Avg similarity: 0.743

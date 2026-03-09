@@ -1,0 +1,5 @@
+Experiment: Weighted_Recommender
+Date: 2026-03-09 06:58:30.954728
+Params: {'model_type': 'weighted', 'num_features': 20, 'use_weights': True, 'weight_body': 2.0, 'weight_energy': 3.0, 'weight_price': 1.5}
+Results:
+  - Avg similarity: 0.779

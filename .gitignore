@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# MLflow
+mlflow/mlruns/
+mlflow/experiments.db
+mlflow/models/
+mlflow/*.db
+
+# Data (if you don't want to commit data)
+data/*.csv
+!data/README.md
+
+# Backend
+backend/__pycache__/
+
+# React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
