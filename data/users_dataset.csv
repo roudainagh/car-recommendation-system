@@ -1,0 +1,1001 @@
+user_id,age,sexe,situation_familiale,nombre_enfants,revenu_mensuel,budget_max,usage_principal,distance_journaliere_km,prefere_electrique,carrosserie_preferee,energie_preferee,boite_preferee,importance_consommation,importance_performance,importance_confort,importance_prix
+1,62,Homme,Célibataire,0,1319,40000,Plage,134,0,SUV,Hybride,Automatique,1,1,2,2
+2,57,Homme,Marié(e),2,2739,73364,Sport,91,0,Coupé,Diesel,Manuelle,3,3,2,2
+3,27,Femme,Célibataire,0,1077,40000,Plage,54,0,SUV,Hybride,Automatique,5,3,5,3
+4,24,Homme,Marié(e),4,5155,116516,Désert,23,1,Minibus,Electrique,Automatique,3,3,2,3
+5,60,Homme,Marié(e),1,2005,69754,Montagne,73,1,SUV,Electrique,Automatique,2,1,3,4
+6,26,Homme,Divorcé(e),1,6984,196311,Désert,72,1,Pick up,Diesel,Manuelle,2,2,5,5
+7,59,Femme,Célibataire,1,2921,49125,Ville,102,1,SUV,Diesel,Automatique,4,5,1,4
+8,55,Femme,Divorcé(e),2,1369,40000,Plage,5,1,Citadine,Electrique,Automatique,3,4,2,4
+9,38,Homme,Marié(e),0,2979,80967,Campagne,33,1,Pick up,Diesel,Automatique,5,3,4,1
+10,41,Homme,Célibataire,0,4904,145345,Sport,140,1,Coupé,Diesel,Automatique,4,5,2,3
+11,35,Homme,Marié(e),1,2429,57717,Plage,146,0,Monospace,Essence,Automatique,2,1,3,1
+12,59,Homme,Célibataire,0,1176,40000,Sport,38,1,Cabriolet,Essence,Automatique,3,4,2,5
+13,37,Femme,Marié(e),1,2665,58859,Désert,68,0,Pick up,Essence,Automatique,1,4,3,1
+14,34,Femme,Célibataire,0,1208,40000,Sport,129,1,Coupé,Essence,Automatique,1,2,2,4
+15,35,Femme,Divorcé(e),0,2499,50739,Sport,80,1,Cabriolet,Electrique,Manuelle,5,4,2,2
+16,35,Homme,Marié(e),2,4437,71004,Désert,65,1,SUV,Essence,Automatique,2,1,5,1
+17,29,Homme,Marié(e),0,3290,86541,Autoroute,81,1,Citadine,Diesel,Manuelle,2,3,4,2
+18,42,Homme,Célibataire,0,1309,40000,Campagne,77,1,Utilitaire,Electrique,Automatique,3,1,2,3
+19,32,Femme,Marié(e),2,3066,46469,Sport,44,1,Cabriolet,Essence,Automatique,3,1,1,5
+20,40,Homme,Marié(e),1,1981,49739,Autoroute,38,1,Berline,Essence,Manuelle,3,1,1,3
+21,32,Femme,Marié(e),1,1208,40952,Montagne,37,0,SUV,Essence,Manuelle,5,5,2,4
+22,41,Femme,Marié(e),3,9363,179783,Campagne,65,0,Minibus,Essence,Manuelle,5,4,5,2
+23,33,Femme,Célibataire,0,2586,80281,Sport,61,1,Coupé,Electrique,Automatique,1,4,1,4
+24,34,Femme,Célibataire,0,7153,110680,Campagne,107,1,Pick up,Electrique,Manuelle,1,3,3,5
+25,65,Femme,Divorcé(e),0,6426,171007,Autoroute,135,0,Berline,Essence,Manuelle,3,3,4,5
+26,46,Homme,Célibataire,0,3105,89228,Montagne,36,1,SUV,Electrique,Manuelle,1,3,5,3
+27,41,Femme,Marié(e),1,3170,55620,Désert,78,0,Pick up,Diesel,Manuelle,4,5,1,3
+28,49,Femme,Célibataire,0,2838,87622,Sport,65,1,Coupé,Essence,Manuelle,5,5,3,1
+29,36,Homme,Célibataire,0,13516,432441,Ville,42,0,Compacte,Hybride,Automatique,4,4,4,2
+30,28,Femme,Célibataire,0,2802,44844,Campagne,86,1,SUV,Hybride,Automatique,4,5,5,5
+31,61,Femme,Marié(e),2,11278,270687,Sport,78,1,Coupé,Electrique,Manuelle,2,3,4,1
+32,37,Femme,Célibataire,0,1517,40000,Montagne,124,1,SUV,Diesel,Automatique,4,4,3,5
+33,25,Homme,Marié(e),1,14896,229258,Sport,142,0,Cabriolet,Hybride,Automatique,3,3,4,4
+34,53,Homme,Célibataire,0,2556,75360,Sport,26,1,Cabriolet,Diesel,Automatique,4,5,5,1
+35,30,Femme,Célibataire,0,2762,59484,Sport,143,1,Cabriolet,Electrique,Manuelle,3,1,4,1
+36,25,Femme,Célibataire,0,4160,125152,Campagne,149,0,SUV,Essence,Automatique,2,2,4,1
+37,51,Femme,Marié(e),1,1369,41830,Campagne,55,0,Pick up,Essence,Automatique,3,5,4,4
+38,59,Homme,Célibataire,0,13338,414952,Sport,8,1,Coupé,Electrique,Manuelle,3,1,5,3
+39,48,Femme,Célibataire,1,2783,81113,Désert,87,1,SUV,Electrique,Manuelle,4,4,5,3
+40,37,Homme,Célibataire,0,12837,349251,Désert,95,1,Pick up,Essence,Manuelle,3,2,4,2
+41,43,Femme,Marié(e),2,941,40000,Campagne,130,1,SUV,Diesel,Manuelle,4,5,2,4
+42,23,Homme,Célibataire,0,3282,73452,Plage,74,1,Minibus,Electrique,Manuelle,5,3,3,4
+43,41,Femme,Célibataire,0,3094,105250,Montagne,77,0,SUV,Diesel,Automatique,4,3,5,5
+44,34,Femme,Célibataire,0,3087,54120,Ville,77,1,Citadine,Electrique,Automatique,4,1,1,5
+45,52,Femme,Célibataire,0,2856,49356,Ville,149,1,Compacte,Hybride,Automatique,5,1,2,2
+46,27,Homme,Célibataire,0,3433,66990,Plage,150,0,Pick up,Hybride,Manuelle,3,5,4,3
+47,61,Homme,Divorcé(e),0,1232,40000,Campagne,125,1,Utilitaire,Essence,Automatique,1,4,4,5
+48,24,Homme,Célibataire,0,4667,134165,Autoroute,73,0,Cabriolet,Diesel,Manuelle,1,5,2,2
+49,26,Homme,Célibataire,0,12826,428694,Désert,131,1,SUV,Hybride,Manuelle,4,3,5,5
+50,27,Homme,Marié(e),2,1005,40000,Montagne,76,1,SUV,Electrique,Automatique,2,4,5,4
+51,33,Femme,Marié(e),2,2325,53863,Autoroute,145,0,SUV,Diesel,Manuelle,4,4,3,4
+52,51,Homme,Célibataire,0,10123,326954,Sport,132,1,Coupé,Hybride,Manuelle,1,2,5,3
+53,25,Homme,Célibataire,0,2885,50281,Montagne,28,0,SUV,Diesel,Manuelle,5,1,5,4
+54,29,Femme,Divorcé(e),1,2095,52746,Autoroute,103,0,Pick up,Hybride,Manuelle,2,4,5,2
+55,60,Homme,Marié(e),1,10299,224492,Sport,43,1,Cabriolet,Essence,Manuelle,3,5,5,4
+56,56,Femme,Célibataire,0,2765,93061,Sport,126,1,Coupé,Diesel,Manuelle,2,4,1,3
+57,46,Homme,Célibataire,0,3317,71779,Ville,24,1,Compacte,Essence,Manuelle,1,2,4,2
+58,38,Femme,Marié(e),1,2245,71945,Sport,65,1,Cabriolet,Electrique,Manuelle,5,1,5,1
+59,62,Femme,Divorcé(e),2,1303,40000,Montagne,19,1,SUV,Hybride,Automatique,3,1,1,3
+60,44,Femme,Célibataire,0,1637,40000,Ville,70,1,Compacte,Diesel,Manuelle,5,2,2,4
+61,38,Homme,Marié(e),2,3138,56984,Désert,103,1,Pick up,Electrique,Manuelle,3,4,3,2
+62,52,Homme,Célibataire,0,2109,40000,Sport,78,1,Cabriolet,Electrique,Automatique,5,1,5,4
+63,36,Femme,Célibataire,0,1460,40244,Montagne,28,1,SUV,Electrique,Manuelle,1,5,3,2
+64,40,Femme,Marié(e),1,3109,101133,Autoroute,34,1,Minibus,Electrique,Automatique,3,4,3,3
+65,51,Homme,Célibataire,1,14550,503413,Sport,121,1,Cabriolet,Essence,Manuelle,1,3,5,1
+66,65,Femme,Marié(e),3,5276,150348,Désert,34,1,SUV,Electrique,Automatique,1,4,3,4
+67,30,Homme,Divorcé(e),0,1298,40000,Plage,44,1,Compacte,Hybride,Manuelle,3,5,4,5
+68,63,Homme,Marié(e),2,8084,126549,Autoroute,144,1,Utilitaire,Hybride,Manuelle,2,3,1,3
+69,25,Femme,Célibataire,1,10951,184343,Campagne,57,0,Utilitaire,Essence,Automatique,3,2,2,5
+70,57,Homme,Marié(e),3,1504,46282,Plage,33,1,SUV,Electrique,Automatique,2,5,3,2
+71,64,Homme,Célibataire,0,13148,282358,Campagne,126,1,Pick up,Essence,Automatique,4,5,1,1
+72,45,Homme,Célibataire,0,3035,63833,Montagne,118,0,SUV,Essence,Manuelle,4,4,1,4
+73,27,Femme,Marié(e),0,3493,93288,Montagne,30,0,Pick up,Hybride,Manuelle,4,5,5,4
+74,63,Homme,Célibataire,0,2757,63340,Montagne,126,1,SUV,Electrique,Manuelle,3,3,3,2
+75,26,Homme,Marié(e),0,2426,75777,Plage,78,1,Berline,Electrique,Automatique,4,3,4,1
+76,60,Femme,Célibataire,0,2875,56019,Ville,148,1,Compacte,Electrique,Automatique,3,5,2,4
+77,61,Homme,Marié(e),2,1018,40000,Montagne,107,1,Pick up,Electrique,Manuelle,1,2,2,5
+78,26,Homme,Marié(e),4,3072,59297,Désert,26,1,Monospace,Electrique,Automatique,3,3,3,5
+79,25,Homme,Célibataire,0,2014,48058,Désert,93,1,Pick up,Hybride,Manuelle,3,2,5,1
+80,29,Femme,Marié(e),2,2163,40000,Désert,79,1,SUV,Essence,Automatique,3,2,2,3
+81,29,Homme,Célibataire,0,3081,89575,Plage,122,1,Minibus,Electrique,Automatique,4,1,4,1
+82,26,Femme,Marié(e),2,10344,215054,Désert,116,1,SUV,Electrique,Automatique,5,4,3,1
+83,28,Homme,Célibataire,0,2170,64917,Campagne,54,1,Pick up,Diesel,Automatique,5,1,5,5
+84,44,Homme,Célibataire,0,3367,60799,Sport,149,1,Coupé,Diesel,Manuelle,4,5,5,4
+85,62,Femme,Célibataire,0,2140,66182,Plage,19,1,Berline,Electrique,Automatique,3,4,4,1
+86,45,Femme,Célibataire,0,13577,364971,Désert,126,0,Pick up,Essence,Manuelle,5,2,3,5
+87,25,Femme,Célibataire,0,1245,40000,Campagne,45,1,SUV,Diesel,Manuelle,4,5,5,5
+88,45,Femme,Célibataire,0,1114,40000,Montagne,69,0,Pick up,Essence,Manuelle,1,5,4,3
+89,43,Homme,Marié(e),0,2505,44035,Montagne,113,1,SUV,Electrique,Manuelle,3,2,5,1
+90,54,Femme,Célibataire,0,9099,308941,Désert,134,0,SUV,Diesel,Automatique,2,1,3,1
+91,64,Femme,Marié(e),2,1531,40000,Sport,77,1,Coupé,Hybride,Automatique,4,3,2,4
+92,36,Homme,Célibataire,0,1694,40000,Plage,46,0,Monospace,Hybride,Manuelle,4,5,5,4
+93,60,Homme,Marié(e),0,2420,63139,Ville,42,1,Citadine,Electrique,Automatique,2,3,4,5
+94,49,Homme,Divorcé(e),0,2331,78343,Désert,62,0,SUV,Hybride,Manuelle,2,4,1,3
+95,42,Homme,Marié(e),2,5755,90733,Sport,9,1,Cabriolet,Diesel,Manuelle,4,5,1,1
+96,35,Homme,Marié(e),2,1355,41359,Campagne,21,0,Pick up,Essence,Automatique,2,4,5,4
+97,53,Homme,Marié(e),2,8273,195116,Plage,22,0,Coupé,Diesel,Manuelle,2,1,5,3
+98,46,Femme,Célibataire,0,966,40000,Ville,95,1,Compacte,Diesel,Automatique,5,3,2,1
+99,63,Homme,Marié(e),2,11341,313405,Sport,56,0,Coupé,Essence,Manuelle,1,3,2,1
+100,42,Femme,Marié(e),4,1937,40000,Montagne,99,1,SUV,Electrique,Manuelle,1,3,3,1
+101,49,Femme,Marié(e),3,1665,41498,Désert,51,1,Monospace,Electrique,Automatique,4,1,4,5
+102,56,Femme,Célibataire,0,2155,51543,Montagne,116,1,Pick up,Diesel,Manuelle,3,4,1,3
+103,62,Homme,Célibataire,0,1555,52956,Campagne,97,1,Utilitaire,Hybride,Automatique,2,1,2,3
+104,58,Homme,Marié(e),2,9596,229140,Ville,34,0,Cabriolet,Diesel,Manuelle,4,3,3,2
+105,33,Femme,Marié(e),3,1966,57172,Campagne,120,1,Minibus,Electrique,Manuelle,2,1,2,1
+106,33,Femme,Divorcé(e),2,8737,247753,Montagne,62,1,SUV,Electrique,Manuelle,2,2,3,5
+107,29,Homme,Marié(e),1,2378,62019,Autoroute,139,1,Monospace,Diesel,Automatique,1,3,4,4
+108,48,Homme,Célibataire,0,2808,80314,Autoroute,137,0,Compacte,Diesel,Automatique,4,5,1,1
+109,41,Homme,Célibataire,1,3025,99518,Sport,141,1,Coupé,Electrique,Automatique,5,3,2,3
+110,27,Homme,Marié(e),2,3457,101679,Plage,58,1,Coupé,Essence,Automatique,1,1,5,3
+111,61,Homme,Célibataire,0,2137,52696,Sport,111,1,Cabriolet,Electrique,Manuelle,1,1,2,4
+112,52,Femme,Célibataire,0,2207,65512,Sport,86,0,Cabriolet,Hybride,Automatique,3,5,5,1
+113,51,Homme,Célibataire,0,2088,70799,Sport,45,1,Cabriolet,Diesel,Automatique,3,5,3,2
+114,54,Femme,Célibataire,0,2510,63023,Campagne,125,1,SUV,Electrique,Automatique,1,3,4,5
+115,40,Homme,Marié(e),1,9493,287420,Autoroute,146,1,Berline,Hybride,Automatique,5,5,2,3
+116,26,Femme,Marié(e),3,3452,98754,Ville,41,0,SUV,Essence,Manuelle,3,3,5,3
+117,60,Femme,Marié(e),0,2264,70363,Plage,105,1,Monospace,Diesel,Automatique,3,5,3,2
+118,59,Femme,Marié(e),2,3205,67291,Sport,11,1,Coupé,Electrique,Manuelle,1,4,5,3
+119,60,Femme,Célibataire,0,12978,344600,Montagne,67,0,SUV,Hybride,Automatique,5,5,4,2
+120,58,Homme,Célibataire,0,2591,74646,Désert,127,1,Pick up,Essence,Automatique,5,2,5,3
+121,42,Homme,Célibataire,0,1982,53913,Campagne,130,1,SUV,Electrique,Manuelle,2,3,3,2
+122,42,Femme,Célibataire,1,7981,165651,Plage,78,0,Minibus,Hybride,Manuelle,3,2,3,1
+123,44,Femme,Marié(e),2,3106,63432,Plage,17,0,Citadine,Diesel,Automatique,5,5,2,2
+124,62,Homme,Célibataire,0,5148,147355,Campagne,87,1,SUV,Diesel,Manuelle,4,4,2,3
+125,63,Homme,Divorcé(e),0,3091,92030,Sport,52,1,Coupé,Diesel,Manuelle,2,1,4,4
+126,24,Homme,Célibataire,0,8990,186014,Montagne,46,1,Pick up,Diesel,Manuelle,3,2,1,3
+127,63,Femme,Marié(e),0,2108,55557,Sport,107,0,Coupé,Diesel,Manuelle,4,5,3,1
+128,33,Homme,Célibataire,1,2471,48704,Sport,97,1,Cabriolet,Electrique,Manuelle,5,5,1,3
+129,37,Homme,Marié(e),2,2958,98980,Montagne,39,1,Pick up,Essence,Manuelle,3,5,2,2
+130,31,Femme,Marié(e),2,3149,104722,Sport,24,0,Coupé,Diesel,Automatique,5,4,5,3
+131,25,Homme,Marié(e),0,3031,72249,Montagne,38,1,SUV,Hybride,Automatique,5,4,1,4
+132,51,Homme,Marié(e),2,989,40000,Sport,143,0,Coupé,Diesel,Automatique,1,4,3,1
+133,26,Femme,Célibataire,0,14011,484313,Montagne,143,1,Pick up,Electrique,Manuelle,4,4,4,1
+134,30,Femme,Célibataire,1,1421,42000,Campagne,102,0,SUV,Essence,Manuelle,4,5,4,5
+135,37,Femme,Célibataire,0,5349,83681,Montagne,13,1,Pick up,Essence,Automatique,2,1,1,5
+136,60,Homme,Célibataire,0,3110,60164,Sport,87,0,Coupé,Diesel,Manuelle,2,5,3,5
+137,41,Homme,Divorcé(e),1,2027,40000,Plage,86,1,Compacte,Hybride,Manuelle,1,3,4,5
+138,48,Homme,Célibataire,0,1887,60359,Autoroute,140,0,Compacte,Hybride,Automatique,5,4,4,5
+139,46,Homme,Célibataire,0,2742,87586,Ville,23,0,Citadine,Essence,Manuelle,4,5,5,1
+140,59,Homme,Célibataire,0,962,40000,Campagne,66,1,Utilitaire,Essence,Manuelle,2,5,2,4
+141,40,Femme,Célibataire,0,2373,59933,Désert,110,0,Pick up,Essence,Manuelle,3,2,3,3
+142,58,Homme,Marié(e),0,3292,87510,Désert,67,1,Pick up,Diesel,Automatique,3,2,4,5
+143,57,Femme,Célibataire,0,14014,417503,Désert,143,1,SUV,Electrique,Automatique,2,5,4,2
+144,63,Homme,Marié(e),3,1098,40000,Désert,121,1,SUV,Diesel,Automatique,2,1,2,5
+145,25,Femme,Marié(e),0,2584,40000,Plage,29,1,Citadine,Electrique,Automatique,5,4,2,1
+146,55,Homme,Célibataire,0,2351,47834,Désert,81,1,SUV,Electrique,Manuelle,4,5,2,2
+147,65,Homme,Marié(e),3,5032,116267,Désert,116,1,Minibus,Hybride,Automatique,1,2,1,4
+148,58,Homme,Marié(e),3,3221,78946,Ville,41,1,SUV,Electrique,Automatique,2,3,1,2
+149,47,Homme,Célibataire,0,2493,71151,Plage,30,1,Coupé,Hybride,Automatique,1,5,3,1
+150,36,Homme,Célibataire,0,10000,343784,Autoroute,101,1,Berline,Electrique,Manuelle,4,2,3,5
+151,49,Homme,Marié(e),2,3433,71775,Campagne,104,1,Utilitaire,Essence,Automatique,3,2,4,2
+152,45,Homme,Célibataire,1,2004,40000,Ville,31,0,Compacte,Hybride,Manuelle,5,5,5,4
+153,27,Femme,Marié(e),2,9812,149601,Désert,48,0,Pick up,Essence,Automatique,5,5,2,4
+154,39,Femme,Célibataire,0,2030,47546,Désert,55,1,SUV,Electrique,Manuelle,2,4,5,5
+155,51,Homme,Célibataire,0,3440,77736,Sport,87,0,Cabriolet,Hybride,Manuelle,4,5,2,3
+156,52,Femme,Célibataire,0,3492,86671,Plage,149,1,Utilitaire,Electrique,Manuelle,3,4,3,1
+157,34,Homme,Marié(e),2,11064,374621,Campagne,66,1,Pick up,Electrique,Automatique,4,4,2,3
+158,38,Homme,Marié(e),3,3349,82334,Désert,32,0,Minibus,Hybride,Automatique,3,5,5,1
+159,64,Femme,Célibataire,0,2536,87076,Autoroute,137,0,Pick up,Essence,Automatique,1,3,2,5
+160,50,Femme,Célibataire,0,2949,53125,Ville,94,1,Compacte,Essence,Manuelle,4,1,1,2
+161,43,Femme,Marié(e),2,1299,40000,Montagne,92,1,Pick up,Electrique,Automatique,3,1,1,1
+162,63,Homme,Marié(e),1,7497,189823,Plage,52,1,Compacte,Electrique,Manuelle,4,2,4,2
+163,62,Femme,Célibataire,0,10866,291687,Désert,142,0,SUV,Diesel,Automatique,3,1,5,1
+164,45,Femme,Célibataire,0,2904,74209,Montagne,122,0,Pick up,Hybride,Manuelle,5,1,3,3
+165,65,Femme,Divorcé(e),1,2182,40000,Autoroute,40,1,SUV,Diesel,Manuelle,2,5,4,4
+166,49,Homme,Célibataire,0,6339,165436,Désert,96,0,Pick up,Diesel,Automatique,3,4,5,1
+167,53,Homme,Célibataire,0,2927,67855,Désert,61,1,Pick up,Hybride,Manuelle,2,1,5,1
+168,24,Femme,Célibataire,0,12768,381129,Sport,15,1,Cabriolet,Essence,Automatique,3,5,3,5
+169,56,Homme,Divorcé(e),0,7556,158329,Ville,58,1,Compacte,Electrique,Manuelle,1,4,1,2
+170,59,Femme,Marié(e),2,3423,60877,Campagne,48,1,SUV,Essence,Manuelle,5,3,5,5
+171,40,Femme,Marié(e),4,1290,40000,Sport,87,0,Monospace,Essence,Manuelle,2,2,2,2
+172,65,Femme,Célibataire,0,2596,58418,Ville,5,0,Citadine,Hybride,Manuelle,3,4,4,3
+173,51,Femme,Marié(e),3,2659,83750,Désert,149,1,Monospace,Electrique,Manuelle,3,5,5,2
+174,53,Femme,Marié(e),3,3464,106267,Désert,56,0,SUV,Essence,Automatique,4,4,1,4
+175,63,Femme,Célibataire,1,2376,47538,Autoroute,29,0,Compacte,Essence,Manuelle,3,2,4,1
+176,35,Femme,Célibataire,0,2722,41335,Montagne,103,0,Pick up,Essence,Manuelle,2,4,1,2
+177,28,Homme,Célibataire,0,1445,40216,Montagne,59,0,SUV,Essence,Automatique,5,2,4,3
+178,48,Femme,Marié(e),0,1404,40000,Désert,68,1,Pick up,Hybride,Manuelle,2,2,3,1
+179,23,Femme,Célibataire,0,2504,52360,Ville,23,0,Citadine,Hybride,Manuelle,1,2,4,5
+180,45,Femme,Célibataire,0,2396,62121,Campagne,60,0,Pick up,Essence,Automatique,5,1,1,3
+181,25,Femme,Marié(e),2,2601,61049,Désert,57,0,SUV,Diesel,Manuelle,1,3,1,5
+182,56,Femme,Célibataire,0,14659,408445,Autoroute,121,0,Pick up,Diesel,Automatique,2,1,4,1
+183,41,Homme,Célibataire,0,6185,154181,Autoroute,12,1,Minibus,Electrique,Automatique,3,2,3,1
+184,43,Femme,Célibataire,0,12948,356725,Désert,45,1,Pick up,Electrique,Automatique,4,5,2,3
+185,38,Homme,Marié(e),2,2984,44913,Sport,50,0,Coupé,Diesel,Automatique,4,3,4,2
+186,57,Femme,Célibataire,0,8742,178556,Ville,107,0,Compacte,Essence,Automatique,2,2,5,1
+187,51,Femme,Marié(e),1,2770,41991,Campagne,55,1,Pick up,Electrique,Automatique,4,3,5,4
+188,56,Homme,Célibataire,1,3118,68372,Sport,140,1,Coupé,Electrique,Automatique,4,3,1,2
+189,37,Femme,Célibataire,0,8085,136317,Campagne,134,0,Utilitaire,Hybride,Manuelle,4,1,5,1
+190,62,Femme,Célibataire,0,1435,40000,Autoroute,24,0,Coupé,Hybride,Manuelle,3,4,3,2
+191,30,Homme,Célibataire,0,2565,44668,Autoroute,45,1,Utilitaire,Hybride,Manuelle,4,3,1,1
+192,60,Homme,Célibataire,0,1916,65849,Désert,147,1,SUV,Electrique,Manuelle,2,1,4,4
+193,57,Homme,Célibataire,0,5490,83662,Sport,71,0,Coupé,Diesel,Automatique,4,3,1,5
+194,23,Homme,Célibataire,0,5007,165739,Sport,115,1,Cabriolet,Essence,Automatique,4,1,2,5
+195,53,Homme,Célibataire,0,1666,40000,Désert,127,0,SUV,Essence,Automatique,3,4,4,5
+196,27,Femme,Célibataire,0,3053,61007,Sport,149,1,Coupé,Hybride,Manuelle,4,5,4,3
+197,46,Femme,Célibataire,0,2050,40000,Désert,141,0,Pick up,Diesel,Automatique,1,2,2,3
+198,36,Femme,Célibataire,0,6386,126002,Autoroute,53,1,Coupé,Essence,Manuelle,5,5,2,5
+199,56,Femme,Célibataire,0,3364,65181,Plage,50,1,Monospace,Essence,Manuelle,5,2,2,3
+200,25,Homme,Célibataire,0,1354,43232,Sport,82,1,Cabriolet,Essence,Manuelle,4,5,1,3
+201,30,Homme,Marié(e),1,2895,81012,Campagne,80,1,Utilitaire,Electrique,Automatique,5,2,4,3
+202,30,Homme,Marié(e),3,9916,317462,Sport,149,0,Minibus,Essence,Automatique,5,3,5,2
+203,53,Homme,Célibataire,0,2208,40533,Ville,94,1,Compacte,Hybride,Automatique,3,2,2,1
+204,28,Homme,Célibataire,0,1581,51684,Désert,46,1,Pick up,Electrique,Manuelle,1,4,5,2
+205,50,Homme,Marié(e),0,1969,67011,Ville,91,1,Compacte,Diesel,Manuelle,2,1,5,1
+206,23,Femme,Divorcé(e),0,6074,97615,Autoroute,81,0,Utilitaire,Diesel,Manuelle,5,5,3,3
+207,28,Homme,Célibataire,0,1123,40000,Désert,48,1,SUV,Electrique,Manuelle,2,1,1,2
+208,62,Femme,Divorcé(e),1,2528,61730,Montagne,52,1,Pick up,Essence,Manuelle,2,3,4,3
+209,24,Femme,Célibataire,0,12745,206886,Sport,146,0,Coupé,Essence,Manuelle,5,4,5,2
+210,46,Femme,Divorcé(e),1,12884,420444,Désert,42,0,Pick up,Essence,Manuelle,1,5,5,5
+211,50,Homme,Divorcé(e),0,1689,40000,Désert,22,0,SUV,Hybride,Automatique,2,5,3,3
+212,46,Femme,Marié(e),3,950,40000,Plage,30,0,Minibus,Hybride,Automatique,4,2,2,5
+213,58,Homme,Marié(e),3,10233,207553,Montagne,107,0,Monospace,Hybride,Automatique,2,3,4,2
+214,47,Femme,Marié(e),0,2000,65881,Ville,39,1,Compacte,Electrique,Manuelle,3,4,1,2
+215,41,Femme,Marié(e),1,13412,374343,Campagne,136,0,Pick up,Diesel,Manuelle,4,5,3,1
+216,26,Femme,Marié(e),1,12090,393972,Ville,17,1,Compacte,Diesel,Automatique,1,2,1,4
+217,34,Femme,Célibataire,0,1407,40273,Campagne,94,1,Pick up,Hybride,Manuelle,2,4,5,5
+218,32,Femme,Marié(e),2,2483,40000,Sport,10,0,Coupé,Diesel,Automatique,2,3,4,5
+219,52,Homme,Marié(e),2,1933,52513,Autoroute,124,1,Citadine,Hybride,Manuelle,3,4,3,2
+220,65,Femme,Marié(e),0,9632,252639,Plage,75,1,Cabriolet,Electrique,Manuelle,1,4,1,3
+221,62,Femme,Marié(e),1,14174,297311,Campagne,11,1,Utilitaire,Diesel,Automatique,5,4,3,2
+222,40,Femme,Divorcé(e),1,13053,380643,Plage,81,1,Utilitaire,Electrique,Automatique,5,4,3,5
+223,32,Homme,Célibataire,0,12660,383070,Campagne,112,1,Utilitaire,Electrique,Automatique,2,3,2,3
+224,43,Femme,Célibataire,0,11210,180184,Montagne,81,1,SUV,Hybride,Automatique,5,1,4,5
+225,25,Homme,Célibataire,0,3232,106193,Désert,85,1,SUV,Electrique,Automatique,1,4,3,2
+226,62,Homme,Célibataire,0,6263,166129,Campagne,114,1,Pick up,Essence,Automatique,5,4,4,4
+227,46,Homme,Célibataire,0,957,40000,Sport,38,0,Coupé,Essence,Automatique,2,2,3,3
+228,46,Femme,Célibataire,0,2091,50431,Plage,53,1,Cabriolet,Electrique,Manuelle,2,3,4,3
+229,32,Femme,Célibataire,0,6961,206613,Plage,141,0,Minibus,Diesel,Automatique,3,1,4,3
+230,60,Homme,Marié(e),2,1374,40000,Désert,112,1,SUV,Electrique,Manuelle,2,2,1,3
+231,64,Homme,Marié(e),1,1461,40000,Ville,56,1,Minibus,Essence,Manuelle,1,1,4,2
+232,55,Homme,Célibataire,0,3145,78395,Campagne,33,1,Utilitaire,Hybride,Manuelle,2,1,1,1
+233,31,Homme,Marié(e),0,7693,214532,Désert,79,1,Pick up,Electrique,Manuelle,1,1,2,1
+234,45,Femme,Célibataire,0,4252,64602,Campagne,28,1,Utilitaire,Diesel,Manuelle,3,4,5,3
+235,43,Homme,Célibataire,0,2479,71390,Désert,111,1,Pick up,Diesel,Automatique,2,1,2,1
+236,58,Femme,Célibataire,0,1018,40000,Sport,21,1,Coupé,Hybride,Manuelle,1,4,4,1
+237,63,Femme,Célibataire,0,3261,96119,Campagne,103,1,Utilitaire,Electrique,Automatique,4,2,4,3
+238,31,Homme,Célibataire,1,2822,90409,Sport,17,0,Coupé,Essence,Manuelle,3,2,3,3
+239,57,Femme,Célibataire,0,3247,77804,Sport,108,1,Cabriolet,Hybride,Manuelle,1,4,1,1
+240,24,Homme,Marié(e),3,13946,294148,Plage,121,1,Minibus,Diesel,Manuelle,3,3,1,2
+241,57,Femme,Marié(e),1,1299,40000,Campagne,32,1,SUV,Electrique,Manuelle,3,5,5,3
+242,24,Homme,Célibataire,0,10205,174905,Plage,91,0,Utilitaire,Diesel,Automatique,4,2,4,2
+243,48,Homme,Divorcé(e),2,2745,66285,Plage,115,1,Minibus,Diesel,Manuelle,1,5,1,5
+244,54,Homme,Marié(e),1,5197,118221,Plage,106,1,Cabriolet,Electrique,Manuelle,4,5,2,3
+245,43,Femme,Célibataire,0,2998,62892,Montagne,38,0,Pick up,Diesel,Automatique,2,5,3,3
+246,54,Femme,Marié(e),3,3287,86818,Montagne,11,1,Minibus,Hybride,Manuelle,4,1,5,1
+247,31,Homme,Marié(e),1,6137,212773,Montagne,96,1,Pick up,Diesel,Automatique,3,2,5,1
+248,28,Homme,Marié(e),2,2078,59968,Ville,69,0,Pick up,Hybride,Manuelle,3,5,1,1
+249,61,Femme,Marié(e),3,14111,315448,Plage,52,0,Minibus,Diesel,Automatique,3,4,2,1
+250,54,Homme,Célibataire,0,1432,40000,Sport,87,0,Cabriolet,Essence,Manuelle,4,2,1,2
+251,62,Femme,Célibataire,0,2201,56142,Campagne,28,1,Utilitaire,Essence,Automatique,4,5,5,4
+252,36,Homme,Marié(e),1,3432,87893,Plage,67,0,Berline,Essence,Manuelle,4,2,5,5
+253,65,Femme,Célibataire,0,1950,50319,Autoroute,87,1,Berline,Electrique,Manuelle,4,1,3,2
+254,54,Homme,Divorcé(e),0,12315,316053,Montagne,116,0,SUV,Diesel,Automatique,4,1,2,5
+255,65,Homme,Célibataire,0,1200,40000,Sport,108,1,Cabriolet,Essence,Automatique,3,4,4,4
+256,42,Homme,Célibataire,0,3432,55820,Montagne,27,1,SUV,Essence,Manuelle,5,1,3,3
+257,50,Femme,Célibataire,0,3085,59840,Montagne,147,1,Pick up,Electrique,Automatique,3,3,1,5
+258,31,Homme,Célibataire,0,3142,106638,Autoroute,52,1,Utilitaire,Electrique,Automatique,4,5,2,2
+259,36,Femme,Célibataire,0,4392,140665,Plage,129,1,Monospace,Essence,Manuelle,1,3,1,2
+260,44,Homme,Marié(e),1,1185,40000,Autoroute,149,1,Monospace,Hybride,Manuelle,5,3,5,2
+261,42,Femme,Célibataire,0,14000,332114,Sport,83,1,Cabriolet,Diesel,Manuelle,4,4,4,3
+262,57,Homme,Célibataire,0,5794,190193,Campagne,108,0,Pick up,Essence,Automatique,1,5,1,5
+263,24,Femme,Marié(e),4,1508,40000,Campagne,106,1,Minibus,Electrique,Automatique,4,5,5,1
+264,45,Homme,Marié(e),3,13561,388973,Sport,42,1,Minibus,Diesel,Manuelle,2,2,5,5
+265,44,Homme,Célibataire,0,2413,47488,Montagne,87,1,SUV,Electrique,Manuelle,4,4,1,1
+266,28,Femme,Marié(e),1,1612,40000,Désert,95,1,Pick up,Essence,Manuelle,4,2,5,4
+267,53,Femme,Marié(e),0,10708,196086,Ville,35,0,Compacte,Diesel,Automatique,2,2,3,5
+268,48,Femme,Marié(e),2,1763,47276,Montagne,46,0,Pick up,Essence,Automatique,1,2,5,5
+269,62,Homme,Marié(e),0,1637,41469,Désert,128,1,SUV,Electrique,Automatique,2,4,5,4
+270,32,Homme,Marié(e),2,6480,177968,Plage,63,1,Citadine,Diesel,Manuelle,4,5,5,1
+271,46,Homme,Célibataire,0,11764,337478,Sport,141,0,Coupé,Essence,Automatique,4,5,5,1
+272,27,Femme,Marié(e),3,904,40000,Sport,63,1,Minibus,Hybride,Manuelle,3,1,5,4
+273,46,Femme,Marié(e),2,14915,395581,Désert,144,1,SUV,Electrique,Manuelle,2,1,3,5
+274,48,Femme,Célibataire,0,12970,330097,Plage,44,1,Berline,Hybride,Automatique,3,4,3,1
+275,63,Femme,Célibataire,0,3406,69861,Montagne,99,1,Pick up,Diesel,Manuelle,5,5,4,2
+276,38,Femme,Marié(e),3,1465,47026,Montagne,107,1,SUV,Diesel,Manuelle,2,1,2,5
+277,57,Homme,Célibataire,1,1273,40055,Désert,14,1,Pick up,Essence,Automatique,3,2,3,1
+278,47,Femme,Marié(e),2,6372,177178,Désert,137,0,SUV,Diesel,Manuelle,2,1,5,5
+279,61,Homme,Marié(e),1,1544,40000,Autoroute,8,1,Pick up,Electrique,Manuelle,4,5,2,5
+280,26,Homme,Marié(e),2,3287,72188,Sport,71,0,Cabriolet,Diesel,Automatique,4,4,5,1
+281,48,Homme,Marié(e),2,1379,42830,Autoroute,91,1,Minibus,Electrique,Manuelle,4,5,4,2
+282,51,Femme,Marié(e),3,1956,40000,Montagne,7,1,SUV,Diesel,Manuelle,4,3,5,5
+283,37,Femme,Célibataire,0,4746,123828,Campagne,53,1,Pick up,Electrique,Manuelle,2,5,3,2
+284,53,Homme,Célibataire,0,1838,40000,Campagne,6,1,Utilitaire,Electrique,Automatique,1,1,1,4
+285,56,Homme,Marié(e),1,3253,105317,Désert,139,1,SUV,Electrique,Manuelle,2,5,2,1
+286,49,Femme,Divorcé(e),0,1615,40000,Ville,30,1,Compacte,Electrique,Automatique,1,2,4,5
+287,42,Femme,Marié(e),1,1871,40000,Plage,100,1,Coupé,Electrique,Automatique,4,4,2,4
+288,45,Femme,Célibataire,0,3258,93570,Sport,42,1,Coupé,Electrique,Automatique,5,4,4,2
+289,31,Femme,Marié(e),1,3483,88259,Montagne,106,0,Pick up,Hybride,Manuelle,3,5,5,1
+290,32,Homme,Célibataire,0,5078,121857,Autoroute,10,1,Citadine,Electrique,Manuelle,5,5,3,3
+291,48,Homme,Célibataire,0,3262,86501,Montagne,25,1,SUV,Electrique,Manuelle,3,5,4,4
+292,46,Femme,Célibataire,1,13996,436036,Autoroute,85,1,Pick up,Hybride,Automatique,1,2,3,2
+293,63,Femme,Marié(e),2,2722,83346,Autoroute,65,1,Cabriolet,Hybride,Manuelle,2,2,1,2
+294,27,Homme,Célibataire,0,2838,73699,Ville,104,1,Compacte,Essence,Automatique,3,5,2,1
+295,36,Homme,Marié(e),1,3057,97121,Ville,145,1,Berline,Electrique,Manuelle,4,4,5,3
+296,50,Homme,Divorcé(e),1,3347,80766,Montagne,118,1,Pick up,Electrique,Manuelle,4,5,2,1
+297,41,Femme,Célibataire,0,3043,95269,Sport,127,1,Coupé,Electrique,Manuelle,4,5,1,4
+298,41,Homme,Marié(e),3,929,40000,Campagne,61,1,Monospace,Hybride,Manuelle,2,2,4,4
+299,27,Femme,Marié(e),2,13547,422009,Montagne,39,1,Pick up,Electrique,Manuelle,4,2,1,2
+300,40,Homme,Marié(e),2,3450,85697,Autoroute,77,1,Berline,Diesel,Automatique,5,1,2,1
+301,30,Femme,Marié(e),1,2921,56503,Désert,42,0,Pick up,Hybride,Manuelle,4,1,3,1
+302,39,Femme,Célibataire,0,1924,60307,Sport,55,1,Coupé,Essence,Automatique,4,4,2,1
+303,28,Homme,Célibataire,0,2223,40396,Montagne,18,0,SUV,Essence,Manuelle,4,3,2,3
+304,29,Homme,Marié(e),1,2030,54188,Désert,100,0,SUV,Essence,Automatique,5,4,5,2
+305,37,Homme,Célibataire,0,3460,56055,Autoroute,93,1,Compacte,Essence,Automatique,4,2,3,5
+306,34,Homme,Marié(e),1,1061,40000,Désert,87,1,Pick up,Hybride,Automatique,5,2,5,3
+307,39,Homme,Célibataire,0,1978,51095,Désert,66,1,SUV,Hybride,Automatique,1,5,3,5
+308,26,Femme,Célibataire,0,6026,164273,Autoroute,38,1,Pick up,Electrique,Automatique,1,5,1,1
+309,33,Homme,Célibataire,0,3238,90129,Désert,8,1,Pick up,Electrique,Automatique,3,2,5,1
+310,35,Femme,Divorcé(e),2,1148,40000,Montagne,23,1,Pick up,Electrique,Automatique,5,3,5,1
+311,41,Homme,Divorcé(e),3,1846,47318,Campagne,96,1,SUV,Diesel,Automatique,5,5,4,1
+312,64,Femme,Marié(e),1,2544,63838,Montagne,110,1,SUV,Hybride,Manuelle,3,5,3,3
+313,42,Homme,Marié(e),1,7663,170119,Désert,137,0,Pick up,Hybride,Automatique,1,3,5,1
+314,41,Homme,Célibataire,0,3856,117339,Montagne,40,1,Pick up,Diesel,Automatique,1,4,3,2
+315,45,Homme,Célibataire,0,2537,66929,Campagne,29,1,Utilitaire,Essence,Manuelle,4,2,4,5
+316,24,Femme,Célibataire,0,9201,299914,Désert,83,0,Pick up,Essence,Automatique,5,1,4,1
+317,42,Homme,Célibataire,0,2509,86361,Sport,91,0,Coupé,Diesel,Manuelle,3,4,2,2
+318,52,Homme,Marié(e),1,2679,81646,Campagne,148,0,SUV,Hybride,Automatique,4,4,5,2
+319,37,Homme,Célibataire,0,3259,54724,Montagne,11,1,Pick up,Hybride,Manuelle,3,2,3,3
+320,32,Femme,Marié(e),4,1497,40000,Sport,67,0,SUV,Diesel,Manuelle,2,1,1,1
+321,40,Homme,Célibataire,0,2829,43722,Campagne,128,0,Utilitaire,Diesel,Automatique,5,5,3,5
+322,64,Homme,Célibataire,1,1946,40000,Autoroute,74,1,Utilitaire,Electrique,Automatique,4,1,1,4
+323,64,Femme,Marié(e),0,14140,321408,Désert,55,1,SUV,Electrique,Manuelle,5,5,1,2
+324,54,Femme,Marié(e),2,3068,64730,Désert,65,1,Pick up,Diesel,Automatique,3,3,3,3
+325,25,Femme,Marié(e),3,3983,134954,Autoroute,138,0,SUV,Diesel,Manuelle,4,2,1,4
+326,48,Homme,Marié(e),1,3379,72938,Plage,84,0,Compacte,Diesel,Automatique,5,5,2,2
+327,49,Homme,Marié(e),2,1177,40000,Montagne,110,1,SUV,Diesel,Manuelle,2,1,3,4
+328,50,Femme,Célibataire,0,1007,40000,Plage,96,1,Cabriolet,Electrique,Automatique,5,2,2,1
+329,27,Femme,Célibataire,0,2431,45409,Désert,109,0,Pick up,Hybride,Automatique,2,2,2,1
+330,39,Femme,Célibataire,0,1737,40000,Désert,102,1,Pick up,Electrique,Manuelle,2,4,4,1
+331,42,Femme,Marié(e),2,3051,84902,Montagne,142,1,SUV,Essence,Manuelle,4,1,2,5
+332,24,Femme,Marié(e),2,2092,49770,Autoroute,137,0,Citadine,Hybride,Automatique,4,3,5,1
+333,51,Femme,Célibataire,0,3297,111296,Montagne,121,0,SUV,Hybride,Manuelle,3,4,1,2
+334,51,Homme,Célibataire,0,6187,181696,Ville,135,0,Citadine,Essence,Manuelle,3,1,5,4
+335,46,Femme,Célibataire,0,1514,40000,Campagne,51,0,SUV,Essence,Manuelle,3,3,4,3
+336,30,Homme,Célibataire,0,2938,94333,Plage,109,1,Berline,Hybride,Automatique,2,5,4,4
+337,27,Homme,Célibataire,0,3183,99953,Campagne,13,1,SUV,Diesel,Automatique,1,3,1,2
+338,43,Homme,Célibataire,0,2064,56185,Montagne,99,1,SUV,Hybride,Manuelle,1,1,3,3
+339,26,Femme,Marié(e),0,1399,40420,Autoroute,140,0,Coupé,Hybride,Automatique,2,5,1,1
+340,52,Femme,Célibataire,0,3255,113601,Autoroute,79,0,Compacte,Hybride,Manuelle,4,2,5,2
+341,22,Homme,Célibataire,0,1749,54203,Désert,56,1,Pick up,Essence,Manuelle,3,5,2,1
+342,38,Homme,Célibataire,0,925,40000,Autoroute,127,1,Coupé,Hybride,Automatique,2,2,3,3
+343,24,Homme,Célibataire,0,12298,404832,Désert,9,0,Pick up,Essence,Manuelle,5,3,5,5
+344,58,Femme,Marié(e),3,1511,40000,Ville,34,1,Monospace,Hybride,Automatique,5,5,4,2
+345,42,Homme,Célibataire,0,9589,230501,Autoroute,28,1,Utilitaire,Electrique,Automatique,1,3,1,2
+346,50,Homme,Marié(e),3,2293,76752,Montagne,57,1,Minibus,Electrique,Manuelle,2,1,5,2
+347,24,Femme,Célibataire,0,2173,73114,Montagne,10,1,SUV,Electrique,Manuelle,1,1,5,3
+348,58,Femme,Marié(e),1,2073,42564,Autoroute,8,0,Monospace,Essence,Manuelle,2,2,3,1
+349,35,Femme,Marié(e),1,8142,215613,Campagne,12,1,SUV,Electrique,Manuelle,5,4,1,2
+350,52,Homme,Célibataire,0,1633,47509,Plage,124,1,Monospace,Electrique,Manuelle,3,2,5,1
+351,58,Homme,Célibataire,0,1298,40000,Montagne,98,1,Pick up,Hybride,Automatique,2,2,5,3
+352,33,Femme,Marié(e),3,1023,40000,Ville,37,0,Monospace,Hybride,Manuelle,2,3,3,5
+353,47,Homme,Célibataire,0,12229,296180,Plage,21,1,Pick up,Diesel,Automatique,5,2,4,4
+354,35,Femme,Marié(e),1,12422,358780,Campagne,88,0,Utilitaire,Essence,Manuelle,1,5,5,4
+355,50,Homme,Célibataire,0,3342,101686,Désert,5,0,Pick up,Hybride,Automatique,1,2,2,5
+356,64,Homme,Célibataire,0,2731,51652,Montagne,7,1,Pick up,Electrique,Manuelle,4,3,1,5
+357,61,Femme,Marié(e),3,3148,108158,Ville,105,1,Minibus,Electrique,Automatique,3,1,2,4
+358,62,Femme,Marié(e),1,1765,49860,Désert,37,0,SUV,Diesel,Manuelle,3,4,2,3
+359,22,Homme,Marié(e),0,14280,338931,Campagne,51,1,SUV,Diesel,Manuelle,4,5,4,5
+360,54,Femme,Marié(e),2,1661,40000,Ville,98,0,Cabriolet,Hybride,Automatique,5,3,4,5
+361,24,Femme,Marié(e),0,1227,40000,Montagne,125,0,Pick up,Hybride,Automatique,5,5,1,2
+362,65,Femme,Marié(e),3,944,40000,Plage,14,1,Monospace,Electrique,Manuelle,3,3,3,2
+363,60,Femme,Marié(e),2,2838,75385,Plage,134,1,Berline,Electrique,Automatique,3,4,1,2
+364,26,Femme,Célibataire,0,1952,40000,Ville,129,0,Citadine,Diesel,Manuelle,3,2,3,2
+365,55,Homme,Célibataire,0,1531,48612,Sport,93,0,Cabriolet,Hybride,Automatique,4,2,2,5
+366,63,Femme,Marié(e),0,2533,62120,Désert,116,0,SUV,Hybride,Manuelle,4,3,2,5
+367,40,Femme,Célibataire,0,1068,40000,Plage,70,1,Coupé,Hybride,Manuelle,3,3,3,1
+368,51,Homme,Marié(e),2,2282,65161,Campagne,139,0,Pick up,Essence,Automatique,1,1,4,1
+369,65,Femme,Célibataire,0,1039,40000,Ville,101,0,Citadine,Diesel,Automatique,1,1,5,2
+370,29,Homme,Célibataire,0,13966,336145,Autoroute,102,1,Pick up,Electrique,Manuelle,2,1,3,1
+371,46,Femme,Divorcé(e),0,6416,152774,Désert,115,0,SUV,Hybride,Automatique,4,1,2,5
+372,61,Homme,Divorcé(e),2,1198,40000,Montagne,104,1,Pick up,Hybride,Automatique,4,2,1,1
+373,31,Femme,Divorcé(e),1,2909,71453,Désert,142,1,SUV,Diesel,Automatique,4,4,1,5
+374,43,Femme,Célibataire,0,4986,111223,Sport,15,1,Cabriolet,Essence,Manuelle,3,2,2,5
+375,64,Homme,Célibataire,0,2371,58634,Montagne,66,1,Pick up,Diesel,Automatique,1,2,1,5
+376,46,Homme,Marié(e),2,2740,94068,Ville,59,1,Berline,Electrique,Automatique,3,1,4,1
+377,63,Femme,Divorcé(e),2,3273,64346,Ville,67,0,Berline,Diesel,Manuelle,1,4,5,1
+378,22,Homme,Marié(e),3,5095,122910,Campagne,61,0,Minibus,Essence,Automatique,1,4,5,5
+379,34,Femme,Célibataire,0,10087,216716,Montagne,21,1,SUV,Electrique,Automatique,1,5,2,3
+380,29,Femme,Célibataire,0,3166,57938,Campagne,9,1,Utilitaire,Essence,Automatique,1,5,4,2
+381,27,Homme,Célibataire,1,13228,433062,Désert,110,0,Pick up,Diesel,Automatique,2,3,5,4
+382,33,Homme,Marié(e),2,1260,40000,Sport,35,1,Cabriolet,Electrique,Manuelle,1,5,2,2
+383,55,Homme,Marié(e),3,11816,229059,Sport,126,1,Minibus,Diesel,Manuelle,1,2,1,2
+384,33,Homme,Marié(e),0,2067,40000,Autoroute,45,0,Coupé,Hybride,Automatique,1,1,5,2
+385,53,Homme,Célibataire,0,3274,70454,Campagne,65,1,Utilitaire,Electrique,Automatique,1,3,2,1
+386,48,Homme,Célibataire,0,2884,46394,Désert,122,0,SUV,Diesel,Manuelle,2,4,3,2
+387,62,Femme,Divorcé(e),0,3229,52287,Campagne,80,0,SUV,Hybride,Manuelle,4,2,3,2
+388,62,Homme,Marié(e),2,2586,83112,Désert,68,1,SUV,Hybride,Manuelle,3,1,4,2
+389,49,Homme,Marié(e),2,3249,107103,Désert,105,1,SUV,Essence,Manuelle,5,1,4,5
+390,28,Femme,Célibataire,0,14857,440297,Campagne,83,1,SUV,Electrique,Manuelle,2,1,1,4
+391,32,Femme,Marié(e),2,2763,67072,Campagne,103,1,Utilitaire,Hybride,Automatique,3,4,1,1
+392,55,Homme,Célibataire,0,3408,88092,Sport,33,1,Coupé,Essence,Manuelle,1,5,3,1
+393,45,Femme,Marié(e),1,3188,92762,Plage,58,0,Utilitaire,Diesel,Manuelle,2,5,1,4
+394,42,Femme,Marié(e),2,1123,40000,Autoroute,120,1,Monospace,Hybride,Automatique,4,5,5,3
+395,65,Homme,Célibataire,0,2500,82397,Autoroute,43,0,SUV,Essence,Automatique,3,1,2,4
+396,55,Homme,Célibataire,1,1440,40000,Désert,138,1,Pick up,Essence,Manuelle,2,1,1,2
+397,48,Femme,Marié(e),3,3071,97774,Désert,128,1,Monospace,Electrique,Automatique,3,2,3,2
+398,45,Femme,Marié(e),0,2767,94421,Plage,34,1,Compacte,Electrique,Automatique,2,2,2,2
+399,24,Femme,Marié(e),1,1740,45674,Ville,141,1,Coupé,Electrique,Automatique,3,4,5,2
+400,41,Homme,Divorcé(e),1,1495,50763,Autoroute,42,1,Compacte,Essence,Manuelle,3,4,3,5
+401,43,Homme,Marié(e),3,3156,54717,Ville,54,0,Monospace,Diesel,Manuelle,3,1,3,1
+402,39,Homme,Célibataire,0,1257,43387,Désert,97,1,SUV,Hybride,Manuelle,5,5,5,1
+403,31,Femme,Célibataire,0,2339,49497,Désert,113,1,SUV,Diesel,Manuelle,4,4,3,2
+404,30,Homme,Célibataire,0,12107,420509,Ville,147,1,Compacte,Essence,Automatique,4,3,4,2
+405,58,Homme,Célibataire,0,2909,46092,Sport,5,1,Cabriolet,Electrique,Manuelle,5,4,2,1
+406,31,Femme,Célibataire,0,1408,40000,Autoroute,131,0,Pick up,Diesel,Manuelle,2,1,1,3
+407,60,Femme,Marié(e),2,13790,396024,Montagne,42,1,SUV,Electrique,Automatique,3,2,5,1
+408,42,Femme,Marié(e),0,2016,44802,Montagne,54,0,Pick up,Essence,Manuelle,3,5,1,5
+409,28,Homme,Marié(e),3,14723,456376,Autoroute,8,1,Minibus,Electrique,Automatique,5,5,3,2
+410,30,Femme,Célibataire,0,1567,40000,Campagne,146,0,Utilitaire,Diesel,Automatique,5,5,5,5
+411,48,Femme,Divorcé(e),0,971,40000,Autoroute,82,0,Coupé,Diesel,Manuelle,5,5,3,2
+412,29,Homme,Célibataire,0,2159,40000,Campagne,15,0,SUV,Hybride,Automatique,1,1,4,4
+413,28,Homme,Marié(e),2,1387,46007,Ville,56,1,SUV,Electrique,Automatique,1,1,5,2
+414,33,Femme,Célibataire,0,8045,273335,Autoroute,8,0,Coupé,Diesel,Automatique,5,5,1,1
+415,34,Femme,Célibataire,0,1304,43663,Plage,102,1,Monospace,Electrique,Automatique,4,1,2,3
+416,49,Homme,Marié(e),1,8650,151135,Ville,26,1,Minibus,Diesel,Manuelle,3,3,5,1
+417,53,Homme,Célibataire,0,14757,509464,Désert,99,0,SUV,Hybride,Manuelle,4,2,1,4
+418,22,Femme,Marié(e),1,1248,40000,Désert,56,1,Pick up,Essence,Automatique,1,3,2,3
+419,29,Homme,Marié(e),2,3283,88224,Sport,76,1,Cabriolet,Electrique,Manuelle,5,4,4,5
+420,31,Femme,Célibataire,0,3473,117554,Ville,88,0,Citadine,Essence,Automatique,4,1,2,4
+421,41,Homme,Marié(e),2,2916,89972,Campagne,143,0,Pick up,Hybride,Manuelle,5,3,5,3
+422,24,Femme,Marié(e),0,2441,58220,Ville,84,1,Citadine,Diesel,Manuelle,2,4,4,2
+423,53,Homme,Marié(e),2,3109,82215,Désert,95,1,SUV,Essence,Manuelle,3,4,5,4
+424,42,Homme,Célibataire,0,9216,287456,Plage,110,1,Berline,Electrique,Manuelle,1,4,3,3
+425,44,Homme,Marié(e),1,3327,55557,Montagne,88,1,SUV,Electrique,Automatique,3,2,1,5
+426,24,Femme,Marié(e),1,2625,53372,Montagne,30,1,Pick up,Essence,Manuelle,4,5,4,3
+427,28,Homme,Célibataire,0,9064,166166,Autoroute,78,1,Coupé,Hybride,Automatique,4,1,5,2
+428,25,Femme,Divorcé(e),1,1276,40000,Plage,114,1,SUV,Electrique,Manuelle,1,5,5,4
+429,35,Femme,Marié(e),2,2128,50344,Plage,121,0,Coupé,Diesel,Manuelle,4,3,5,5
+430,23,Homme,Marié(e),1,11157,227142,Montagne,43,1,Pick up,Essence,Automatique,3,4,2,2
+431,49,Femme,Célibataire,0,1733,55316,Autoroute,34,0,Citadine,Diesel,Manuelle,5,2,4,2
+432,34,Homme,Célibataire,0,3193,111198,Désert,76,0,SUV,Diesel,Automatique,3,2,1,3
+433,63,Homme,Divorcé(e),1,1243,40000,Autoroute,33,0,SUV,Hybride,Manuelle,1,4,2,2
+434,55,Femme,Célibataire,0,2183,47121,Plage,59,1,Pick up,Diesel,Manuelle,2,2,1,2
+435,50,Femme,Célibataire,0,2434,70567,Ville,126,1,Compacte,Hybride,Manuelle,2,3,2,3
+436,41,Homme,Marié(e),3,1123,40000,Sport,36,0,Minibus,Diesel,Manuelle,5,4,3,3
+437,50,Femme,Célibataire,1,7687,161563,Sport,13,1,Coupé,Electrique,Automatique,2,4,3,4
+438,39,Homme,Marié(e),3,2591,86876,Autoroute,95,1,Minibus,Hybride,Automatique,2,3,5,1
+439,60,Femme,Célibataire,0,1652,45600,Sport,26,0,Coupé,Essence,Manuelle,2,3,3,5
+440,32,Homme,Marié(e),4,5632,179881,Montagne,88,1,Monospace,Electrique,Manuelle,4,2,3,2
+441,40,Homme,Célibataire,0,2445,82873,Plage,123,0,Utilitaire,Essence,Automatique,5,5,2,1
+442,38,Homme,Célibataire,0,1511,40000,Autoroute,35,0,Compacte,Essence,Automatique,5,4,4,4
+443,35,Homme,Divorcé(e),2,2924,66203,Désert,42,0,SUV,Diesel,Manuelle,2,4,2,4
+444,40,Femme,Célibataire,0,3287,94288,Désert,103,1,SUV,Essence,Manuelle,2,3,4,2
+445,60,Femme,Célibataire,0,1861,45443,Autoroute,82,1,Cabriolet,Essence,Automatique,3,5,5,4
+446,64,Femme,Célibataire,0,1634,40000,Plage,115,1,Monospace,Electrique,Manuelle,2,1,3,5
+447,31,Femme,Célibataire,0,2050,61410,Désert,85,1,Pick up,Electrique,Manuelle,5,3,4,2
+448,53,Homme,Marié(e),3,2702,43406,Campagne,124,1,SUV,Diesel,Automatique,1,4,3,2
+449,29,Femme,Célibataire,0,11450,276576,Ville,48,1,Citadine,Essence,Manuelle,1,2,3,2
+450,58,Homme,Marié(e),4,3237,60245,Ville,105,1,SUV,Hybride,Automatique,3,1,3,1
+451,59,Homme,Marié(e),1,2865,68992,Autoroute,150,0,Cabriolet,Essence,Manuelle,1,5,4,3
+452,35,Homme,Marié(e),1,4659,120869,Plage,27,0,Pick up,Essence,Manuelle,3,2,2,4
+453,35,Homme,Célibataire,0,1531,40000,Désert,56,1,Pick up,Electrique,Automatique,3,1,3,5
+454,53,Femme,Marié(e),2,2632,44229,Désert,92,1,Pick up,Diesel,Manuelle,4,1,1,5
+455,65,Homme,Marié(e),2,12139,334929,Plage,43,1,SUV,Electrique,Manuelle,4,1,4,3
+456,30,Femme,Marié(e),2,1095,40000,Ville,69,1,Minibus,Essence,Manuelle,4,1,4,5
+457,38,Homme,Marié(e),0,11084,206063,Campagne,121,1,Pick up,Essence,Automatique,4,3,3,5
+458,61,Femme,Célibataire,1,6959,130145,Montagne,34,0,Pick up,Essence,Manuelle,5,1,1,4
+459,32,Femme,Célibataire,0,3365,99328,Autoroute,8,1,Cabriolet,Electrique,Manuelle,3,1,2,2
+460,34,Homme,Marié(e),2,1009,40000,Montagne,123,0,SUV,Diesel,Manuelle,5,2,1,3
+461,52,Femme,Célibataire,0,2723,93337,Désert,18,1,SUV,Hybride,Automatique,2,3,5,4
+462,22,Homme,Marié(e),2,11622,345656,Plage,129,1,Minibus,Electrique,Automatique,4,4,4,5
+463,36,Homme,Marié(e),1,1160,40000,Montagne,116,0,Pick up,Hybride,Automatique,4,5,3,4
+464,32,Femme,Marié(e),2,2979,57774,Montagne,125,0,Pick up,Hybride,Automatique,3,4,4,3
+465,61,Homme,Célibataire,0,1428,40000,Campagne,58,0,Utilitaire,Hybride,Automatique,4,4,3,2
+466,23,Femme,Marié(e),1,2962,46323,Ville,62,1,Coupé,Hybride,Automatique,5,2,1,5
+467,38,Femme,Marié(e),3,12627,256957,Campagne,31,0,Minibus,Essence,Automatique,4,4,1,1
+468,54,Homme,Célibataire,0,2381,43192,Autoroute,36,0,Monospace,Hybride,Automatique,2,3,3,2
+469,50,Femme,Marié(e),0,11261,245787,Plage,43,1,Compacte,Essence,Manuelle,3,4,3,2
+470,36,Homme,Marié(e),1,2779,94588,Plage,26,1,Coupé,Essence,Manuelle,2,1,5,1
+471,42,Femme,Divorcé(e),0,1051,40000,Montagne,85,1,SUV,Essence,Manuelle,4,4,5,3
+472,22,Femme,Divorcé(e),1,2554,61101,Campagne,14,1,Utilitaire,Hybride,Manuelle,4,2,3,1
+473,46,Homme,Marié(e),2,2995,77976,Plage,66,1,Coupé,Diesel,Automatique,1,5,5,3
+474,49,Homme,Marié(e),3,2978,65782,Ville,91,0,Minibus,Essence,Manuelle,3,5,1,4
+475,59,Homme,Célibataire,0,12885,366561,Montagne,97,1,Pick up,Diesel,Automatique,3,5,5,2
+476,28,Homme,Marié(e),3,1154,40000,Campagne,148,1,Monospace,Diesel,Manuelle,1,3,5,4
+477,38,Femme,Marié(e),4,2905,86087,Désert,140,0,SUV,Diesel,Automatique,4,4,2,5
+478,35,Femme,Célibataire,0,9552,319361,Ville,138,0,Compacte,Essence,Automatique,3,5,3,1
+479,29,Femme,Célibataire,0,1014,40000,Campagne,130,0,Utilitaire,Hybride,Automatique,3,3,2,2
+480,29,Femme,Célibataire,0,2168,57051,Autoroute,119,0,Pick up,Hybride,Automatique,2,5,4,4
+481,42,Homme,Marié(e),2,1853,61158,Autoroute,84,0,Minibus,Essence,Manuelle,3,1,2,1
+482,63,Homme,Célibataire,0,1116,40000,Plage,75,0,Utilitaire,Hybride,Automatique,1,5,2,1
+483,37,Femme,Célibataire,0,3312,52659,Sport,86,1,Coupé,Electrique,Manuelle,2,4,1,5
+484,46,Femme,Célibataire,1,2068,40000,Autoroute,88,0,SUV,Diesel,Manuelle,4,2,1,5
+485,23,Homme,Célibataire,0,2227,44893,Sport,131,1,Coupé,Essence,Automatique,2,5,5,2
+486,29,Femme,Célibataire,0,2883,44911,Montagne,147,0,SUV,Essence,Manuelle,5,5,1,2
+487,41,Femme,Célibataire,0,1483,40000,Campagne,79,0,SUV,Hybride,Manuelle,1,1,4,5
+488,22,Homme,Divorcé(e),1,2457,85957,Sport,81,1,Coupé,Electrique,Automatique,2,5,5,1
+489,27,Femme,Marié(e),3,8079,263097,Campagne,87,1,Minibus,Electrique,Manuelle,3,4,3,2
+490,43,Homme,Célibataire,0,1447,40413,Ville,105,0,Compacte,Essence,Automatique,2,4,5,4
+491,63,Homme,Marié(e),3,10794,307034,Autoroute,99,1,Monospace,Electrique,Manuelle,2,1,1,4
+492,34,Femme,Célibataire,0,14651,489753,Autoroute,14,1,Utilitaire,Essence,Manuelle,2,2,4,3
+493,53,Homme,Célibataire,1,1354,43867,Plage,149,0,Minibus,Hybride,Automatique,5,2,5,5
+494,26,Homme,Marié(e),0,7235,236006,Montagne,121,0,Pick up,Diesel,Automatique,5,5,3,5
+495,49,Homme,Marié(e),1,10167,208227,Montagne,76,1,Pick up,Hybride,Manuelle,5,1,2,1
+496,56,Femme,Célibataire,0,3242,100999,Montagne,84,0,SUV,Hybride,Automatique,2,2,2,3
+497,62,Homme,Célibataire,0,3465,116774,Sport,90,0,Cabriolet,Diesel,Automatique,4,2,3,1
+498,26,Femme,Marié(e),2,1250,43113,Ville,82,1,Pick up,Electrique,Automatique,2,1,4,1
+499,61,Femme,Célibataire,0,2107,67421,Désert,103,1,SUV,Hybride,Automatique,5,5,1,4
+500,49,Homme,Célibataire,1,10940,277266,Plage,54,0,Utilitaire,Essence,Automatique,1,5,1,5
+501,62,Femme,Célibataire,0,1661,40000,Sport,96,1,Coupé,Essence,Automatique,3,5,4,5
+502,59,Homme,Célibataire,0,2410,82917,Plage,113,1,Cabriolet,Diesel,Automatique,2,5,5,1
+503,34,Homme,Marié(e),1,1675,47498,Montagne,46,1,Pick up,Electrique,Manuelle,5,3,4,3
+504,28,Femme,Marié(e),3,915,40000,Montagne,57,1,SUV,Hybride,Automatique,2,4,3,4
+505,33,Homme,Célibataire,0,1371,40000,Désert,49,1,SUV,Electrique,Automatique,1,2,2,3
+506,36,Femme,Marié(e),1,1631,40000,Campagne,58,1,Pick up,Essence,Automatique,2,4,1,3
+507,51,Homme,Célibataire,0,3058,105629,Plage,141,1,Pick up,Essence,Automatique,2,2,2,2
+508,45,Femme,Marié(e),4,1089,40000,Plage,37,1,SUV,Electrique,Automatique,3,2,1,3
+509,54,Femme,Célibataire,0,3418,55704,Plage,100,1,Pick up,Electrique,Manuelle,5,4,2,3
+510,55,Femme,Marié(e),2,2542,70571,Sport,60,1,Coupé,Diesel,Automatique,2,4,2,4
+511,49,Femme,Marié(e),3,3155,52673,Sport,15,1,SUV,Electrique,Manuelle,5,3,2,5
+512,51,Femme,Célibataire,0,2937,62676,Désert,26,1,SUV,Diesel,Manuelle,2,3,1,3
+513,54,Homme,Marié(e),3,1192,40000,Plage,53,1,SUV,Electrique,Automatique,3,3,3,3
+514,60,Homme,Divorcé(e),2,7779,118012,Autoroute,136,1,Citadine,Electrique,Manuelle,4,5,1,4
+515,31,Femme,Célibataire,0,1857,47012,Sport,111,0,Cabriolet,Hybride,Manuelle,1,3,2,4
+516,50,Femme,Marié(e),0,1425,40000,Montagne,108,1,SUV,Hybride,Manuelle,3,2,4,4
+517,42,Homme,Marié(e),0,2252,59371,Sport,53,1,Cabriolet,Hybride,Automatique,4,1,5,4
+518,28,Femme,Marié(e),2,5028,92658,Montagne,103,1,SUV,Essence,Manuelle,1,2,2,1
+519,35,Homme,Célibataire,0,2409,61117,Campagne,112,1,Pick up,Hybride,Manuelle,2,1,2,5
+520,26,Femme,Divorcé(e),2,1742,40000,Sport,75,0,Cabriolet,Diesel,Manuelle,5,2,5,4
+521,22,Homme,Célibataire,0,1911,48763,Plage,121,1,Monospace,Hybride,Manuelle,5,1,1,3
+522,41,Femme,Marié(e),3,1920,40000,Plage,105,0,Minibus,Hybride,Manuelle,4,2,5,1
+523,37,Homme,Célibataire,0,1173,40000,Montagne,31,1,SUV,Hybride,Manuelle,5,1,3,1
+524,48,Femme,Célibataire,0,1009,40000,Montagne,7,1,Pick up,Hybride,Manuelle,4,2,4,1
+525,29,Homme,Célibataire,0,1179,40000,Montagne,9,0,SUV,Hybride,Automatique,4,3,2,2
+526,33,Femme,Célibataire,0,945,40000,Campagne,118,1,Pick up,Electrique,Automatique,2,1,5,2
+527,25,Homme,Célibataire,0,919,40000,Désert,112,0,SUV,Diesel,Manuelle,2,2,1,1
+528,22,Femme,Marié(e),2,1295,40065,Sport,87,0,Coupé,Diesel,Automatique,4,5,1,3
+529,61,Homme,Divorcé(e),0,1851,40000,Autoroute,59,1,Coupé,Diesel,Automatique,4,3,1,4
+530,36,Homme,Marié(e),1,1079,40000,Campagne,69,1,Pick up,Electrique,Manuelle,1,5,5,2
+531,28,Femme,Divorcé(e),1,1444,40000,Montagne,119,1,Pick up,Hybride,Automatique,3,1,5,5
+532,54,Homme,Marié(e),2,986,40000,Ville,40,1,Citadine,Diesel,Manuelle,2,5,1,1
+533,53,Femme,Célibataire,0,1875,62752,Plage,111,1,Monospace,Electrique,Automatique,3,3,1,5
+534,63,Femme,Marié(e),1,9116,180906,Plage,51,1,Berline,Diesel,Automatique,5,4,5,3
+535,62,Homme,Célibataire,0,4354,120550,Campagne,65,0,SUV,Diesel,Automatique,2,5,5,2
+536,49,Femme,Célibataire,0,1622,43983,Autoroute,106,1,Citadine,Hybride,Automatique,3,4,1,3
+537,32,Femme,Célibataire,0,6054,190047,Sport,142,0,Cabriolet,Essence,Manuelle,4,1,3,5
+538,57,Homme,Célibataire,0,2436,63927,Désert,6,1,SUV,Electrique,Automatique,4,2,2,2
+539,22,Femme,Célibataire,1,9614,218052,Autoroute,46,0,Cabriolet,Essence,Manuelle,1,1,4,5
+540,49,Femme,Marié(e),3,2901,80356,Autoroute,13,1,Minibus,Essence,Manuelle,4,2,2,4
+541,62,Homme,Marié(e),2,2765,93692,Campagne,106,0,Pick up,Diesel,Automatique,1,1,1,4
+542,55,Homme,Marié(e),1,2137,53452,Plage,41,1,Pick up,Electrique,Manuelle,1,1,5,3
+543,39,Homme,Divorcé(e),0,1589,49779,Ville,48,0,Citadine,Essence,Manuelle,5,4,3,4
+544,45,Homme,Marié(e),1,1351,40000,Sport,109,1,Coupé,Diesel,Automatique,1,2,2,3
+545,62,Homme,Marié(e),1,2447,42806,Ville,20,1,Coupé,Essence,Automatique,4,4,1,1
+546,22,Homme,Célibataire,0,3369,85577,Sport,99,1,Cabriolet,Hybride,Manuelle,3,5,4,3
+547,42,Homme,Divorcé(e),1,1134,40000,Sport,36,1,Cabriolet,Essence,Automatique,4,4,2,1
+548,37,Femme,Célibataire,0,11937,277684,Campagne,64,1,SUV,Electrique,Automatique,3,1,3,4
+549,60,Femme,Célibataire,0,2652,89589,Désert,134,0,SUV,Hybride,Manuelle,5,2,2,5
+550,30,Femme,Marié(e),1,3147,109340,Désert,59,0,SUV,Hybride,Automatique,4,5,2,2
+551,64,Homme,Célibataire,1,2237,73939,Sport,130,0,Cabriolet,Diesel,Manuelle,4,1,2,5
+552,43,Homme,Divorcé(e),2,2305,51955,Montagne,27,0,Pick up,Hybride,Automatique,2,3,1,3
+553,27,Femme,Marié(e),3,5403,142945,Campagne,53,1,Monospace,Hybride,Automatique,3,1,5,5
+554,49,Femme,Marié(e),3,5570,141450,Plage,85,0,Minibus,Diesel,Automatique,4,1,5,4
+555,40,Homme,Célibataire,0,1497,44821,Sport,127,1,Coupé,Electrique,Manuelle,5,1,3,5
+556,62,Homme,Célibataire,0,2264,40874,Montagne,45,0,SUV,Diesel,Automatique,2,4,4,3
+557,57,Femme,Célibataire,0,9913,226227,Plage,87,1,Citadine,Electrique,Automatique,5,4,1,2
+558,59,Homme,Marié(e),2,1570,41672,Désert,97,1,Pick up,Electrique,Automatique,2,2,2,1
+559,58,Homme,Marié(e),4,2649,75732,Campagne,136,1,SUV,Essence,Manuelle,4,2,1,1
+560,59,Femme,Divorcé(e),1,1039,40000,Désert,75,1,Pick up,Electrique,Automatique,4,1,4,4
+561,62,Femme,Célibataire,0,2903,80785,Plage,103,1,Utilitaire,Essence,Manuelle,3,1,5,2
+562,63,Femme,Célibataire,0,3101,57981,Sport,36,0,Coupé,Hybride,Manuelle,1,5,5,5
+563,64,Homme,Célibataire,0,3172,75952,Autoroute,148,1,SUV,Essence,Automatique,5,2,2,1
+564,24,Homme,Divorcé(e),1,3129,57673,Montagne,118,0,SUV,Diesel,Manuelle,1,5,3,5
+565,58,Femme,Marié(e),2,9270,251434,Plage,81,0,Utilitaire,Essence,Automatique,2,1,2,2
+566,30,Homme,Marié(e),1,10415,171714,Autoroute,113,0,Citadine,Hybride,Automatique,4,4,1,3
+567,56,Homme,Célibataire,0,14917,416354,Montagne,11,0,Pick up,Diesel,Manuelle,2,3,4,4
+568,26,Femme,Célibataire,0,1170,40000,Ville,30,1,Compacte,Electrique,Manuelle,2,2,3,1
+569,46,Homme,Célibataire,0,6380,162878,Autoroute,146,1,Cabriolet,Hybride,Automatique,5,3,5,3
+570,60,Homme,Marié(e),1,9883,183956,Sport,37,0,Cabriolet,Hybride,Automatique,3,1,5,2
+571,46,Femme,Célibataire,0,7582,216574,Désert,75,1,Pick up,Diesel,Manuelle,3,4,5,3
+572,55,Homme,Célibataire,0,10161,309011,Sport,19,0,Coupé,Essence,Automatique,2,1,2,5
+573,40,Femme,Marié(e),0,14593,367359,Montagne,8,0,SUV,Hybride,Manuelle,5,5,1,4
+574,22,Femme,Marié(e),2,3063,87851,Ville,98,0,Cabriolet,Hybride,Automatique,5,2,2,1
+575,54,Femme,Divorcé(e),1,2428,83510,Autoroute,59,0,Utilitaire,Essence,Manuelle,3,4,3,3
+576,62,Femme,Célibataire,0,14035,355233,Ville,89,1,Compacte,Hybride,Automatique,3,1,5,4
+577,44,Homme,Célibataire,0,2352,40000,Désert,36,1,Pick up,Diesel,Automatique,5,5,2,4
+578,22,Homme,Marié(e),1,2433,51058,Désert,95,1,SUV,Electrique,Automatique,4,4,2,2
+579,49,Homme,Célibataire,0,1676,40000,Campagne,73,0,Pick up,Hybride,Manuelle,1,2,2,4
+580,48,Femme,Marié(e),3,8823,264882,Sport,44,1,Monospace,Hybride,Automatique,1,1,1,2
+581,54,Homme,Marié(e),1,2301,54288,Plage,114,0,Berline,Hybride,Manuelle,3,3,4,1
+582,61,Homme,Marié(e),1,1371,44260,Montagne,51,0,SUV,Hybride,Automatique,4,1,5,5
+583,59,Homme,Célibataire,0,1687,56652,Désert,83,0,SUV,Diesel,Automatique,1,4,4,5
+584,36,Femme,Célibataire,0,1111,40000,Autoroute,51,1,Coupé,Electrique,Manuelle,4,2,3,1
+585,24,Homme,Célibataire,0,2833,58368,Plage,82,0,SUV,Hybride,Automatique,3,4,3,3
+586,28,Homme,Marié(e),3,2376,70866,Autoroute,27,1,Minibus,Electrique,Automatique,3,2,5,4
+587,28,Homme,Marié(e),2,1680,40000,Désert,44,0,SUV,Essence,Manuelle,3,4,2,5
+588,30,Homme,Célibataire,0,12681,437526,Autoroute,133,0,Monospace,Essence,Manuelle,1,4,4,5
+589,32,Femme,Marié(e),0,3219,52198,Montagne,117,1,SUV,Hybride,Manuelle,5,5,1,2
+590,57,Femme,Célibataire,0,1555,41111,Plage,146,0,Berline,Hybride,Manuelle,3,2,3,3
+591,32,Homme,Célibataire,0,1506,50964,Autoroute,5,1,Compacte,Electrique,Automatique,2,2,5,1
+592,63,Femme,Marié(e),4,3149,63864,Campagne,76,1,Monospace,Electrique,Manuelle,1,1,3,2
+593,33,Femme,Divorcé(e),1,13057,223651,Montagne,57,1,Pick up,Electrique,Automatique,4,2,3,3
+594,59,Femme,Célibataire,0,9540,171402,Désert,150,1,SUV,Hybride,Automatique,4,2,2,2
+595,33,Femme,Célibataire,0,2514,72270,Campagne,30,0,SUV,Diesel,Automatique,4,2,4,4
+596,22,Homme,Célibataire,0,14060,473731,Campagne,32,1,SUV,Essence,Manuelle,2,5,1,1
+597,27,Homme,Célibataire,0,6173,130544,Désert,10,0,SUV,Diesel,Automatique,5,3,5,1
+598,28,Femme,Célibataire,0,904,40000,Ville,103,0,Citadine,Hybride,Manuelle,2,3,3,2
+599,53,Homme,Divorcé(e),0,8118,179782,Plage,50,1,Coupé,Essence,Manuelle,1,1,5,2
+600,55,Femme,Marié(e),2,2135,58702,Autoroute,5,0,Coupé,Essence,Manuelle,4,3,3,1
+601,63,Homme,Célibataire,0,11339,354831,Ville,103,1,Compacte,Electrique,Automatique,1,3,2,2
+602,44,Femme,Célibataire,0,13359,412392,Autoroute,141,1,Compacte,Diesel,Manuelle,4,5,4,5
+603,56,Homme,Célibataire,0,3266,99717,Sport,97,1,Coupé,Essence,Automatique,3,1,2,1
+604,30,Homme,Célibataire,0,5784,120850,Campagne,35,0,Utilitaire,Hybride,Automatique,2,2,1,2
+605,46,Homme,Marié(e),1,1334,40000,Ville,67,0,Monospace,Diesel,Automatique,2,3,2,1
+606,22,Femme,Célibataire,0,12142,351769,Autoroute,44,0,Monospace,Hybride,Manuelle,4,1,3,1
+607,63,Homme,Marié(e),1,2523,79862,Montagne,28,1,Pick up,Electrique,Manuelle,2,4,2,3
+608,55,Femme,Divorcé(e),0,3435,55371,Désert,47,0,SUV,Essence,Manuelle,4,3,4,4
+609,45,Femme,Célibataire,0,3370,103040,Autoroute,59,0,Berline,Diesel,Manuelle,2,5,1,1
+610,41,Homme,Marié(e),2,2002,40000,Plage,84,0,Cabriolet,Essence,Manuelle,1,1,3,1
+611,44,Femme,Divorcé(e),1,2500,73784,Campagne,43,0,Utilitaire,Essence,Manuelle,4,5,1,5
+612,59,Femme,Célibataire,0,1560,40000,Désert,137,1,SUV,Essence,Automatique,2,2,2,5
+613,50,Homme,Célibataire,0,10560,166850,Montagne,150,1,Pick up,Diesel,Automatique,5,5,1,2
+614,28,Homme,Célibataire,0,1257,40000,Désert,98,1,Pick up,Diesel,Manuelle,2,1,3,5
+615,27,Homme,Célibataire,0,2838,98108,Sport,78,1,Cabriolet,Diesel,Automatique,5,4,1,3
+616,48,Homme,Célibataire,0,2184,49082,Montagne,148,0,Pick up,Hybride,Manuelle,1,5,1,2
+617,31,Homme,Célibataire,0,1198,40000,Sport,32,0,Cabriolet,Essence,Manuelle,4,4,5,4
+618,33,Homme,Divorcé(e),3,6769,155892,Ville,121,1,Monospace,Electrique,Manuelle,2,4,1,3
+619,24,Homme,Divorcé(e),0,3227,50426,Plage,59,0,Pick up,Essence,Manuelle,4,4,2,1
+620,65,Femme,Célibataire,0,1183,40000,Ville,18,0,Compacte,Hybride,Manuelle,5,2,3,2
+621,49,Femme,Divorcé(e),0,2616,64438,Plage,55,0,Compacte,Hybride,Manuelle,5,4,1,5
+622,64,Homme,Célibataire,1,8686,132754,Désert,5,1,SUV,Hybride,Manuelle,1,4,3,5
+623,30,Femme,Marié(e),2,1668,40000,Plage,8,1,Compacte,Hybride,Automatique,3,2,2,5
+624,45,Homme,Célibataire,0,5544,160700,Montagne,138,1,Pick up,Hybride,Manuelle,3,3,5,4
+625,29,Homme,Célibataire,0,1566,40489,Désert,27,0,Pick up,Hybride,Manuelle,5,1,1,1
+626,61,Femme,Célibataire,0,3131,53208,Désert,102,1,SUV,Electrique,Manuelle,2,2,4,5
+627,29,Homme,Marié(e),4,2800,65124,Sport,73,1,Minibus,Hybride,Automatique,3,2,5,3
+628,41,Femme,Marié(e),0,4036,61793,Campagne,147,1,Pick up,Electrique,Manuelle,2,5,4,2
+629,47,Homme,Marié(e),1,3266,77018,Montagne,64,0,Pick up,Diesel,Manuelle,3,5,2,4
+630,30,Homme,Marié(e),3,13778,459266,Sport,116,0,Minibus,Diesel,Manuelle,2,1,1,1
+631,62,Homme,Célibataire,0,4791,126654,Ville,54,0,Citadine,Hybride,Manuelle,2,2,2,3
+632,46,Femme,Marié(e),1,13780,213077,Plage,77,1,SUV,Essence,Manuelle,5,1,1,2
+633,33,Homme,Célibataire,0,6908,157612,Désert,101,1,SUV,Hybride,Automatique,4,1,2,4
+634,62,Femme,Marié(e),1,1631,45983,Montagne,144,0,SUV,Essence,Manuelle,3,4,5,5
+635,32,Femme,Divorcé(e),0,994,40000,Sport,40,0,Coupé,Diesel,Manuelle,1,2,1,3
+636,27,Homme,Célibataire,0,9211,268608,Montagne,69,0,Pick up,Hybride,Manuelle,4,5,4,2
+637,34,Femme,Divorcé(e),0,13127,278708,Sport,86,0,Coupé,Hybride,Manuelle,4,4,5,3
+638,60,Femme,Célibataire,0,3491,109571,Désert,140,1,SUV,Essence,Manuelle,5,4,3,5
+639,47,Homme,Célibataire,0,1661,40000,Ville,86,1,Citadine,Electrique,Manuelle,2,3,1,1
+640,22,Femme,Célibataire,0,1852,48583,Désert,24,1,Pick up,Diesel,Automatique,1,5,3,5
+641,65,Femme,Célibataire,0,2923,72996,Autoroute,103,0,Pick up,Essence,Automatique,4,2,5,3
+642,58,Homme,Célibataire,0,3577,118873,Autoroute,9,0,Compacte,Hybride,Automatique,5,5,1,3
+643,52,Homme,Marié(e),1,2199,66132,Désert,121,1,SUV,Electrique,Manuelle,5,1,4,3
+644,53,Homme,Marié(e),3,1817,40000,Ville,53,1,SUV,Essence,Manuelle,4,2,2,1
+645,56,Homme,Divorcé(e),2,1076,40000,Autoroute,40,1,SUV,Electrique,Manuelle,5,4,3,2
+646,59,Femme,Célibataire,0,3292,107832,Désert,87,1,Pick up,Essence,Automatique,5,4,4,3
+647,36,Homme,Célibataire,0,3187,101062,Campagne,8,0,Utilitaire,Diesel,Automatique,1,4,1,2
+648,51,Femme,Célibataire,0,3318,100309,Plage,61,1,Coupé,Electrique,Manuelle,2,5,1,2
+649,45,Femme,Divorcé(e),2,2539,47629,Autoroute,32,0,Pick up,Diesel,Manuelle,5,1,2,4
+650,37,Homme,Marié(e),1,3074,73938,Autoroute,133,1,SUV,Essence,Manuelle,4,2,2,4
+651,54,Femme,Célibataire,0,2466,73092,Désert,140,1,SUV,Electrique,Automatique,4,2,5,3
+652,60,Femme,Marié(e),0,1919,65590,Campagne,141,0,SUV,Essence,Automatique,5,3,2,1
+653,39,Homme,Marié(e),2,2509,42718,Montagne,78,0,Pick up,Hybride,Automatique,2,2,3,3
+654,28,Homme,Marié(e),2,2150,68910,Montagne,121,0,SUV,Diesel,Manuelle,1,2,2,3
+655,22,Femme,Célibataire,0,4762,87689,Sport,125,1,Coupé,Electrique,Manuelle,5,1,4,2
+656,29,Homme,Marié(e),2,7241,184684,Campagne,94,1,SUV,Essence,Automatique,3,3,4,4
+657,64,Femme,Célibataire,0,8434,246299,Plage,110,0,Cabriolet,Hybride,Automatique,3,5,1,2
+658,64,Homme,Célibataire,0,2664,59109,Montagne,139,0,SUV,Diesel,Manuelle,1,3,5,4
+659,38,Femme,Marié(e),1,2031,43029,Ville,78,1,Cabriolet,Electrique,Automatique,4,4,5,3
+660,29,Homme,Célibataire,0,1515,40000,Autoroute,8,1,Cabriolet,Diesel,Manuelle,4,3,1,3
+661,24,Homme,Célibataire,0,2152,40000,Autoroute,148,0,Berline,Essence,Manuelle,2,3,3,5
+662,27,Femme,Célibataire,0,1230,40000,Ville,71,1,Compacte,Electrique,Automatique,4,4,4,1
+663,41,Femme,Célibataire,0,12973,230705,Sport,83,1,Coupé,Electrique,Automatique,4,5,2,3
+664,27,Femme,Marié(e),2,2439,74750,Sport,96,1,Cabriolet,Essence,Automatique,5,4,3,5
+665,44,Femme,Célibataire,1,3189,49520,Sport,136,1,Cabriolet,Essence,Automatique,5,3,2,5
+666,30,Femme,Célibataire,0,924,40000,Sport,29,1,Cabriolet,Essence,Automatique,1,3,1,3
+667,58,Femme,Marié(e),3,3294,93840,Montagne,39,0,Minibus,Essence,Automatique,5,2,5,4
+668,65,Homme,Célibataire,0,3606,112191,Plage,138,0,Utilitaire,Essence,Automatique,1,2,5,1
+669,37,Homme,Célibataire,0,2500,40282,Ville,117,0,Compacte,Hybride,Manuelle,2,2,5,3
+670,49,Homme,Marié(e),1,14272,282780,Plage,131,1,Minibus,Diesel,Manuelle,4,3,3,1
+671,64,Femme,Célibataire,0,2607,81520,Campagne,82,1,SUV,Electrique,Manuelle,1,5,4,1
+672,24,Femme,Célibataire,1,11167,364585,Désert,94,1,Pick up,Essence,Automatique,3,5,5,2
+673,54,Homme,Célibataire,0,3206,69845,Montagne,125,1,SUV,Electrique,Manuelle,4,1,4,4
+674,60,Homme,Marié(e),3,12109,244414,Montagne,64,1,Monospace,Electrique,Manuelle,1,1,1,2
+675,28,Homme,Célibataire,0,1848,63989,Sport,69,0,Coupé,Essence,Automatique,4,4,1,1
+676,24,Homme,Célibataire,0,1020,40000,Autoroute,55,1,SUV,Hybride,Manuelle,2,5,5,2
+677,53,Femme,Marié(e),1,10612,331908,Sport,6,1,Coupé,Essence,Automatique,1,2,1,2
+678,48,Homme,Célibataire,0,14023,358471,Campagne,22,1,SUV,Hybride,Manuelle,3,5,5,2
+679,49,Femme,Marié(e),2,3018,63270,Ville,62,1,Monospace,Diesel,Automatique,5,5,3,1
+680,38,Femme,Marié(e),0,8220,135593,Plage,125,1,Utilitaire,Electrique,Manuelle,5,1,5,1
+681,38,Homme,Célibataire,0,1143,40000,Plage,14,1,Coupé,Essence,Automatique,4,1,5,5
+682,26,Femme,Marié(e),2,3158,77609,Campagne,94,1,Pick up,Essence,Automatique,1,4,5,2
+683,52,Femme,Marié(e),3,1126,40000,Sport,101,0,SUV,Hybride,Automatique,5,4,1,4
+684,49,Femme,Marié(e),0,3421,118540,Autoroute,28,0,Coupé,Diesel,Manuelle,4,1,2,2
+685,36,Femme,Marié(e),3,12807,203831,Sport,51,1,SUV,Diesel,Automatique,1,1,2,4
+686,24,Femme,Célibataire,0,2097,40000,Désert,131,1,Pick up,Essence,Automatique,1,3,5,2
+687,36,Femme,Marié(e),3,8296,268619,Campagne,93,1,Minibus,Electrique,Manuelle,5,5,1,1
+688,48,Femme,Célibataire,0,3033,59479,Montagne,121,0,SUV,Essence,Manuelle,2,1,2,4
+689,23,Femme,Marié(e),1,2130,67187,Ville,118,1,Berline,Electrique,Manuelle,4,1,4,4
+690,24,Homme,Célibataire,0,1114,40000,Ville,92,1,Compacte,Essence,Manuelle,3,5,2,1
+691,49,Homme,Marié(e),2,14608,303092,Plage,38,0,Monospace,Hybride,Manuelle,2,4,4,2
+692,39,Femme,Célibataire,0,2282,60294,Ville,83,1,Compacte,Electrique,Manuelle,3,5,1,1
+693,58,Femme,Marié(e),3,970,40000,Désert,25,1,SUV,Electrique,Manuelle,5,2,4,1
+694,39,Femme,Divorcé(e),1,2031,41007,Désert,34,0,SUV,Diesel,Automatique,2,5,1,2
+695,33,Femme,Marié(e),0,4497,153051,Autoroute,94,0,Citadine,Essence,Manuelle,5,1,5,2
+696,26,Femme,Célibataire,0,3236,72574,Sport,97,1,Cabriolet,Essence,Manuelle,3,2,1,3
+697,48,Femme,Célibataire,1,1556,40000,Autoroute,135,1,Compacte,Essence,Automatique,5,2,3,5
+698,35,Femme,Marié(e),0,9744,294777,Montagne,112,0,SUV,Essence,Automatique,5,5,5,5
+699,55,Homme,Marié(e),2,2198,44803,Sport,85,0,Cabriolet,Diesel,Manuelle,2,3,2,4
+700,37,Femme,Marié(e),3,2341,61355,Ville,37,0,Monospace,Hybride,Automatique,4,4,2,5
+701,48,Homme,Marié(e),3,1383,40000,Désert,47,0,Minibus,Diesel,Manuelle,2,2,4,1
+702,48,Femme,Marié(e),2,1313,40000,Ville,104,1,Pick up,Essence,Automatique,1,2,5,5
+703,44,Homme,Célibataire,0,5451,118483,Sport,120,1,Cabriolet,Essence,Automatique,1,3,4,4
+704,40,Femme,Marié(e),2,13160,438581,Plage,102,1,SUV,Diesel,Automatique,5,5,3,4
+705,50,Homme,Marié(e),2,5088,99955,Désert,50,0,Pick up,Essence,Manuelle,3,3,4,3
+706,24,Homme,Célibataire,0,8651,146974,Autoroute,48,1,Compacte,Essence,Manuelle,3,4,4,2
+707,38,Homme,Divorcé(e),1,1747,45497,Plage,130,0,Compacte,Essence,Automatique,5,5,2,1
+708,45,Homme,Célibataire,1,2722,69187,Sport,72,1,Cabriolet,Electrique,Automatique,1,4,4,4
+709,27,Homme,Divorcé(e),2,2348,72958,Montagne,121,0,SUV,Essence,Manuelle,2,5,3,3
+710,42,Homme,Célibataire,1,8703,163685,Plage,55,1,Berline,Essence,Automatique,2,5,4,2
+711,52,Homme,Célibataire,0,1439,40000,Ville,58,0,Citadine,Essence,Manuelle,1,4,5,5
+712,24,Femme,Marié(e),2,1861,51650,Désert,96,1,SUV,Electrique,Automatique,3,4,4,4
+713,56,Femme,Célibataire,0,8207,191977,Désert,34,1,Pick up,Diesel,Manuelle,1,2,4,3
+714,47,Homme,Marié(e),2,11515,311148,Montagne,20,1,SUV,Essence,Manuelle,3,5,2,4
+715,38,Femme,Célibataire,0,1967,65397,Autoroute,61,0,Monospace,Diesel,Manuelle,1,3,4,4
+716,56,Homme,Marié(e),0,13507,291665,Plage,146,0,Minibus,Essence,Automatique,4,1,3,3
+717,63,Homme,Marié(e),1,1543,49010,Désert,146,1,SUV,Electrique,Automatique,3,3,4,2
+718,37,Homme,Célibataire,0,5180,129655,Sport,68,0,Cabriolet,Essence,Automatique,3,3,1,2
+719,39,Homme,Marié(e),1,2005,64640,Ville,29,1,SUV,Hybride,Automatique,1,5,5,2
+720,34,Femme,Marié(e),1,8451,173084,Campagne,61,1,SUV,Electrique,Manuelle,4,3,4,1
+721,48,Femme,Célibataire,1,1901,43054,Désert,106,1,Pick up,Electrique,Automatique,4,2,5,1
+722,36,Femme,Célibataire,0,2261,40416,Montagne,26,0,SUV,Essence,Automatique,2,4,5,2
+723,47,Femme,Marié(e),3,4466,135534,Autoroute,109,1,Monospace,Electrique,Manuelle,2,1,3,5
+724,22,Femme,Marié(e),3,12439,310929,Montagne,31,1,SUV,Electrique,Manuelle,4,5,5,1
+725,49,Homme,Célibataire,0,1397,40000,Désert,40,1,SUV,Essence,Manuelle,4,2,5,4
+726,47,Homme,Célibataire,0,2010,51153,Plage,100,1,Coupé,Diesel,Automatique,3,5,2,5
+727,52,Femme,Célibataire,0,5718,104552,Montagne,22,0,Pick up,Essence,Manuelle,4,2,2,4
+728,41,Homme,Célibataire,0,1287,40000,Désert,54,1,SUV,Essence,Manuelle,5,2,3,1
+729,40,Femme,Marié(e),1,2551,85933,Plage,76,0,Minibus,Diesel,Automatique,5,2,1,2
+730,38,Homme,Célibataire,0,2468,53316,Sport,28,0,Cabriolet,Hybride,Automatique,2,1,2,2
+731,31,Homme,Célibataire,0,1113,40000,Sport,66,1,Cabriolet,Hybride,Manuelle,3,3,5,1
+732,46,Femme,Marié(e),1,8694,222685,Plage,130,1,Utilitaire,Diesel,Manuelle,2,4,5,4
+733,65,Homme,Marié(e),1,1003,40000,Sport,102,1,Cabriolet,Electrique,Manuelle,2,5,5,2
+734,45,Homme,Divorcé(e),3,2378,60686,Ville,8,1,Minibus,Electrique,Manuelle,1,3,3,5
+735,60,Femme,Célibataire,0,1079,40000,Montagne,121,1,Pick up,Electrique,Automatique,5,1,4,5
+736,53,Homme,Célibataire,0,5203,82019,Ville,118,0,Citadine,Diesel,Automatique,1,4,1,1
+737,42,Homme,Marié(e),1,14234,388304,Ville,108,1,Coupé,Electrique,Automatique,5,3,5,1
+738,48,Homme,Célibataire,0,1992,40000,Désert,84,1,SUV,Electrique,Automatique,5,4,2,1
+739,39,Femme,Célibataire,0,4911,129276,Désert,10,0,SUV,Essence,Automatique,2,1,2,3
+740,22,Homme,Marié(e),2,7543,159577,Montagne,76,0,SUV,Diesel,Manuelle,1,4,3,2
+741,58,Femme,Célibataire,0,1716,40000,Autoroute,98,1,Citadine,Hybride,Manuelle,1,4,3,5
+742,63,Femme,Marié(e),2,3297,74886,Plage,133,1,Cabriolet,Diesel,Manuelle,3,3,2,3
+743,27,Homme,Célibataire,0,1372,40000,Montagne,149,1,SUV,Hybride,Automatique,4,5,3,3
+744,64,Homme,Célibataire,0,932,40000,Désert,124,1,Pick up,Electrique,Automatique,2,3,3,2
+745,56,Homme,Marié(e),1,3331,88335,Désert,128,1,Pick up,Hybride,Automatique,3,3,5,3
+746,41,Homme,Divorcé(e),2,11807,202573,Désert,139,0,Pick up,Hybride,Automatique,2,5,2,3
+747,58,Homme,Célibataire,0,4982,105546,Sport,42,1,Coupé,Electrique,Manuelle,4,2,4,1
+748,34,Homme,Célibataire,0,1732,41102,Montagne,30,1,SUV,Diesel,Manuelle,1,4,2,3
+749,57,Femme,Marié(e),3,2798,81490,Sport,77,1,SUV,Hybride,Automatique,3,2,4,3
+750,60,Femme,Marié(e),1,3302,51306,Plage,106,0,Compacte,Diesel,Manuelle,3,3,5,1
+751,63,Homme,Célibataire,0,2683,45227,Désert,13,1,SUV,Hybride,Automatique,3,3,4,4
+752,48,Homme,Célibataire,0,11118,346043,Autoroute,134,1,SUV,Hybride,Automatique,2,3,2,5
+753,65,Femme,Célibataire,0,2630,80023,Autoroute,126,1,Pick up,Electrique,Automatique,5,4,5,3
+754,43,Femme,Célibataire,0,2470,80043,Ville,121,1,Citadine,Essence,Manuelle,5,3,2,5
+755,25,Femme,Célibataire,0,2403,40000,Plage,73,1,Coupé,Electrique,Manuelle,3,3,1,5
+756,33,Femme,Célibataire,0,1045,40000,Autoroute,37,0,Berline,Hybride,Automatique,2,1,5,1
+757,62,Femme,Célibataire,0,14789,404402,Sport,30,1,Cabriolet,Essence,Automatique,3,3,1,2
+758,54,Homme,Célibataire,0,2541,40000,Montagne,82,0,Pick up,Essence,Manuelle,1,2,5,3
+759,25,Femme,Marié(e),1,8003,239588,Sport,74,1,Coupé,Electrique,Automatique,5,4,2,3
+760,22,Femme,Célibataire,0,2025,41190,Plage,21,1,Coupé,Essence,Automatique,2,1,3,2
+761,60,Femme,Marié(e),2,2493,61108,Plage,123,1,Berline,Electrique,Manuelle,3,3,4,2
+762,53,Homme,Marié(e),1,2550,40000,Sport,82,1,Coupé,Hybride,Manuelle,1,2,5,3
+763,42,Femme,Marié(e),0,1582,43481,Plage,101,0,Pick up,Hybride,Automatique,3,5,4,2
+764,46,Homme,Célibataire,0,12852,267154,Sport,76,1,Coupé,Hybride,Manuelle,3,2,4,5
+765,45,Homme,Marié(e),2,2201,55126,Plage,45,0,Pick up,Diesel,Manuelle,4,4,3,4
+766,47,Femme,Célibataire,0,14252,262884,Ville,62,0,Compacte,Hybride,Manuelle,4,2,1,5
+767,61,Homme,Marié(e),2,8826,240034,Campagne,146,0,Utilitaire,Hybride,Automatique,3,1,5,4
+768,32,Femme,Célibataire,0,1718,40000,Autoroute,118,0,SUV,Essence,Automatique,5,4,4,2
+769,33,Femme,Marié(e),0,2256,73188,Campagne,125,1,SUV,Hybride,Automatique,1,1,4,5
+770,26,Femme,Divorcé(e),2,3386,94610,Plage,98,1,Berline,Hybride,Manuelle,1,3,4,1
+771,54,Femme,Célibataire,0,1975,59563,Plage,128,0,SUV,Diesel,Manuelle,4,3,2,2
+772,38,Homme,Célibataire,0,2913,87535,Sport,150,1,Cabriolet,Electrique,Manuelle,4,3,4,3
+773,39,Homme,Marié(e),0,1805,58849,Plage,117,1,Coupé,Electrique,Manuelle,2,5,3,4
+774,65,Femme,Célibataire,0,3388,70628,Désert,8,1,Pick up,Diesel,Automatique,2,5,3,2
+775,45,Femme,Célibataire,1,14049,254533,Sport,49,1,Cabriolet,Electrique,Manuelle,4,2,5,4
+776,52,Femme,Célibataire,1,2166,41432,Campagne,8,0,Pick up,Essence,Automatique,3,4,4,5
+777,34,Femme,Marié(e),1,2249,56558,Autoroute,67,1,Minibus,Essence,Automatique,4,5,5,2
+778,33,Homme,Célibataire,0,3395,68970,Autoroute,58,0,SUV,Diesel,Automatique,2,5,3,1
+779,37,Femme,Célibataire,0,8725,268732,Ville,30,0,Citadine,Hybride,Automatique,4,1,4,2
+780,60,Femme,Célibataire,0,1356,40000,Désert,131,0,SUV,Hybride,Automatique,3,4,5,3
+781,43,Femme,Marié(e),4,3079,61519,Autoroute,86,1,Minibus,Electrique,Manuelle,1,2,4,1
+782,54,Femme,Célibataire,0,14527,306415,Sport,83,1,Cabriolet,Electrique,Automatique,2,1,2,2
+783,54,Femme,Célibataire,0,2129,71430,Campagne,45,0,Utilitaire,Diesel,Manuelle,2,2,4,2
+784,42,Femme,Marié(e),3,7914,154912,Autoroute,85,1,Monospace,Electrique,Manuelle,2,3,3,3
+785,50,Femme,Célibataire,0,2555,41151,Désert,70,1,Pick up,Diesel,Manuelle,3,1,2,2
+786,45,Homme,Célibataire,0,3193,95088,Sport,88,1,Coupé,Hybride,Manuelle,1,1,2,2
+787,59,Femme,Divorcé(e),3,9891,284425,Montagne,30,0,Monospace,Diesel,Manuelle,5,5,4,1
+788,62,Femme,Célibataire,0,5320,130003,Montagne,56,1,SUV,Electrique,Manuelle,2,2,5,3
+789,57,Homme,Célibataire,0,1967,51404,Sport,59,0,Cabriolet,Essence,Automatique,1,3,3,4
+790,42,Femme,Célibataire,0,1960,40000,Montagne,17,0,SUV,Diesel,Automatique,4,4,4,4
+791,54,Femme,Célibataire,0,2965,96248,Autoroute,149,0,Minibus,Hybride,Manuelle,5,3,1,1
+792,57,Homme,Marié(e),3,4938,130750,Désert,43,1,Minibus,Diesel,Automatique,4,3,4,4
+793,26,Homme,Marié(e),1,2671,87576,Désert,114,0,Pick up,Essence,Manuelle,1,1,2,3
+794,38,Homme,Marié(e),3,1720,52285,Plage,30,0,Monospace,Diesel,Automatique,2,2,3,2
+795,56,Homme,Marié(e),2,8866,287356,Campagne,64,0,Utilitaire,Diesel,Automatique,3,2,4,3
+796,44,Homme,Célibataire,0,2436,40000,Sport,57,1,Coupé,Hybride,Automatique,4,4,4,2
+797,59,Homme,Célibataire,0,11963,208563,Sport,53,0,Coupé,Essence,Manuelle,5,3,3,4
+798,27,Femme,Célibataire,0,3765,57021,Sport,116,1,Cabriolet,Hybride,Automatique,3,3,3,1
+799,36,Homme,Marié(e),3,3760,127938,Autoroute,7,1,Minibus,Electrique,Automatique,2,2,2,5
+800,30,Homme,Célibataire,0,3342,103761,Sport,137,1,Cabriolet,Electrique,Manuelle,2,4,2,2
+801,31,Homme,Célibataire,1,3992,99604,Autoroute,89,1,Pick up,Electrique,Manuelle,5,3,1,1
+802,23,Femme,Célibataire,0,4262,109914,Sport,112,0,Coupé,Diesel,Automatique,1,3,2,1
+803,29,Femme,Célibataire,0,10716,189545,Plage,143,1,Berline,Electrique,Manuelle,4,3,2,3
+804,45,Homme,Célibataire,0,6716,117641,Plage,31,0,Compacte,Diesel,Automatique,1,1,4,3
+805,36,Femme,Célibataire,0,2792,79201,Plage,13,1,Minibus,Electrique,Automatique,3,4,3,2
+806,46,Homme,Marié(e),4,3499,54872,Sport,128,1,SUV,Diesel,Manuelle,3,1,5,4
+807,34,Femme,Célibataire,0,3135,74604,Montagne,145,1,Pick up,Electrique,Manuelle,2,3,3,4
+808,51,Homme,Marié(e),1,1158,40000,Désert,145,1,SUV,Diesel,Automatique,2,4,1,1
+809,30,Femme,Célibataire,0,4860,166823,Plage,95,0,Compacte,Hybride,Automatique,2,2,1,2
+810,58,Homme,Marié(e),1,3074,56362,Campagne,56,1,SUV,Diesel,Automatique,2,5,5,4
+811,25,Femme,Célibataire,1,11308,275463,Campagne,58,1,Utilitaire,Electrique,Automatique,1,3,5,3
+812,61,Homme,Célibataire,0,1556,47134,Sport,68,1,Coupé,Hybride,Automatique,4,4,5,2
+813,26,Homme,Divorcé(e),0,5523,163036,Plage,35,1,Compacte,Diesel,Manuelle,2,3,3,1
+814,55,Homme,Marié(e),2,2695,56531,Ville,102,1,Minibus,Hybride,Automatique,1,3,3,1
+815,29,Femme,Célibataire,0,11484,346462,Campagne,131,1,Utilitaire,Essence,Automatique,5,5,3,2
+816,48,Homme,Marié(e),3,2029,67148,Montagne,30,1,Minibus,Electrique,Manuelle,3,3,1,1
+817,53,Homme,Marié(e),1,1988,40000,Sport,30,0,Cabriolet,Hybride,Manuelle,1,5,1,5
+818,29,Homme,Célibataire,0,10412,325954,Montagne,107,1,SUV,Electrique,Manuelle,4,5,5,1
+819,62,Femme,Marié(e),0,998,40000,Autoroute,93,1,SUV,Electrique,Manuelle,1,4,3,3
+820,44,Homme,Célibataire,0,3500,70922,Sport,27,1,Coupé,Diesel,Manuelle,4,3,2,4
+821,44,Homme,Célibataire,0,4982,138444,Autoroute,94,1,Cabriolet,Hybride,Automatique,4,2,3,4
+822,50,Femme,Marié(e),4,1356,40000,Autoroute,28,1,Minibus,Electrique,Automatique,4,5,1,2
+823,27,Femme,Marié(e),0,2349,53874,Désert,67,1,SUV,Electrique,Automatique,3,2,4,1
+824,57,Homme,Marié(e),1,1796,40000,Campagne,128,1,Pick up,Diesel,Automatique,1,3,2,1
+825,48,Homme,Célibataire,0,3469,91960,Désert,86,1,Pick up,Electrique,Manuelle,4,3,3,2
+826,56,Femme,Célibataire,0,1911,59071,Plage,63,1,Compacte,Essence,Manuelle,5,3,1,5
+827,63,Homme,Célibataire,0,3434,81582,Plage,19,1,Pick up,Essence,Automatique,1,5,4,5
+828,52,Homme,Célibataire,0,8024,211794,Montagne,84,1,SUV,Hybride,Manuelle,2,4,2,4
+829,43,Homme,Marié(e),3,5864,177831,Montagne,35,1,Minibus,Electrique,Automatique,5,1,3,5
+830,26,Homme,Marié(e),2,7577,262131,Sport,29,1,Coupé,Diesel,Automatique,4,1,3,1
+831,58,Femme,Marié(e),1,2306,43029,Autoroute,71,1,Coupé,Diesel,Manuelle,3,4,1,2
+832,34,Homme,Célibataire,0,2750,82599,Plage,48,0,Citadine,Essence,Automatique,5,1,3,1
+833,55,Homme,Célibataire,0,3226,84738,Sport,60,1,Coupé,Diesel,Automatique,5,4,2,5
+834,28,Homme,Marié(e),2,6409,161164,Sport,32,1,Cabriolet,Essence,Automatique,5,1,3,3
+835,65,Homme,Marié(e),1,1691,45775,Plage,91,0,Coupé,Hybride,Manuelle,4,1,5,1
+836,45,Homme,Célibataire,0,2555,40450,Ville,141,1,Compacte,Essence,Automatique,3,5,5,5
+837,56,Homme,Célibataire,0,8300,281245,Désert,31,1,Pick up,Hybride,Manuelle,1,4,1,4
+838,57,Femme,Marié(e),1,8206,249600,Montagne,143,0,SUV,Essence,Automatique,1,3,5,5
+839,63,Femme,Marié(e),2,2140,48573,Autoroute,99,0,Minibus,Essence,Manuelle,5,5,2,5
+840,35,Homme,Célibataire,0,2211,40000,Campagne,79,0,Pick up,Diesel,Automatique,1,4,2,1
+841,37,Femme,Divorcé(e),3,9592,319909,Désert,113,1,SUV,Diesel,Automatique,5,2,5,3
+842,35,Femme,Célibataire,0,9679,199017,Campagne,62,1,Pick up,Electrique,Automatique,4,1,4,2
+843,26,Homme,Célibataire,1,1651,42494,Campagne,150,1,Utilitaire,Electrique,Manuelle,3,5,3,3
+844,38,Homme,Marié(e),1,6812,231636,Plage,32,0,Monospace,Diesel,Automatique,5,1,4,4
+845,36,Homme,Marié(e),1,4605,91340,Plage,53,0,Coupé,Hybride,Automatique,4,5,1,5
+846,42,Homme,Marié(e),3,1927,64432,Autoroute,134,0,Monospace,Diesel,Automatique,4,4,2,3
+847,36,Homme,Marié(e),1,3915,126950,Ville,33,1,Utilitaire,Electrique,Automatique,2,5,3,1
+848,65,Homme,Célibataire,0,1595,47023,Autoroute,5,0,Coupé,Essence,Automatique,1,2,1,4
+849,46,Homme,Marié(e),3,3134,51643,Montagne,130,1,Monospace,Hybride,Manuelle,5,4,4,2
+850,44,Femme,Célibataire,0,2375,46257,Autoroute,81,0,Compacte,Hybride,Manuelle,2,3,1,4
+851,24,Femme,Célibataire,0,10091,176597,Montagne,118,1,Pick up,Diesel,Manuelle,4,4,4,4
+852,51,Femme,Célibataire,0,3070,58693,Campagne,109,1,Utilitaire,Diesel,Automatique,5,3,4,5
+853,63,Femme,Célibataire,0,2752,57809,Sport,103,1,Cabriolet,Essence,Automatique,2,3,5,2
+854,33,Femme,Célibataire,0,1605,40000,Montagne,67,0,SUV,Hybride,Automatique,2,4,3,4
+855,53,Femme,Marié(e),3,3472,112903,Montagne,28,1,SUV,Essence,Automatique,1,1,1,3
+856,44,Homme,Marié(e),4,1170,40000,Autoroute,30,0,Minibus,Hybride,Manuelle,3,2,3,3
+857,31,Homme,Célibataire,0,1548,40609,Montagne,15,1,Pick up,Electrique,Automatique,1,2,4,1
+858,30,Femme,Célibataire,0,13104,376902,Sport,93,1,Cabriolet,Hybride,Automatique,4,1,4,5
+859,27,Femme,Célibataire,0,2512,83738,Ville,9,1,Citadine,Electrique,Manuelle,1,3,5,4
+860,61,Femme,Divorcé(e),0,3002,61855,Plage,72,1,Berline,Hybride,Manuelle,2,1,2,3
+861,49,Femme,Célibataire,0,11006,310239,Autoroute,82,1,Minibus,Essence,Automatique,5,1,5,1
+862,34,Femme,Célibataire,0,2436,52892,Sport,54,1,Cabriolet,Hybride,Manuelle,2,3,3,5
+863,40,Femme,Célibataire,0,2205,71066,Ville,21,0,Citadine,Diesel,Automatique,2,1,2,3
+864,58,Homme,Marié(e),3,955,40000,Autoroute,36,0,Minibus,Essence,Automatique,5,4,3,1
+865,30,Homme,Divorcé(e),3,1275,40000,Sport,140,0,Minibus,Diesel,Automatique,1,1,4,3
+866,52,Homme,Marié(e),2,11188,232277,Montagne,55,1,SUV,Hybride,Automatique,5,1,1,2
+867,31,Homme,Marié(e),2,1666,53265,Sport,134,1,Coupé,Diesel,Manuelle,5,3,5,4
+868,35,Femme,Célibataire,0,928,40000,Montagne,93,1,Pick up,Electrique,Automatique,1,1,1,4
+869,25,Femme,Célibataire,0,3697,127706,Montagne,86,1,SUV,Electrique,Manuelle,5,1,5,3
+870,50,Femme,Marié(e),2,2903,61745,Montagne,123,1,SUV,Diesel,Automatique,1,3,4,4
+871,47,Femme,Marié(e),2,2479,57988,Ville,116,1,Compacte,Electrique,Manuelle,2,4,3,1
+872,64,Homme,Célibataire,1,967,40000,Campagne,82,1,Pick up,Electrique,Automatique,1,4,4,2
+873,57,Femme,Célibataire,0,10592,251053,Sport,127,1,Coupé,Hybride,Automatique,3,1,1,3
+874,31,Homme,Marié(e),2,2909,44389,Autoroute,38,1,Compacte,Electrique,Manuelle,5,4,5,1
+875,55,Femme,Célibataire,0,1424,40000,Désert,88,0,SUV,Essence,Manuelle,3,4,2,2
+876,42,Femme,Marié(e),2,2256,65348,Campagne,9,1,Pick up,Diesel,Automatique,2,4,5,4
+877,54,Homme,Célibataire,0,3067,76119,Plage,98,0,Citadine,Essence,Manuelle,4,2,3,2
+878,52,Homme,Célibataire,0,3442,84848,Campagne,53,1,Pick up,Electrique,Manuelle,3,5,5,2
+879,60,Homme,Célibataire,0,12078,374139,Autoroute,41,1,Utilitaire,Hybride,Manuelle,1,3,3,2
+880,23,Homme,Marié(e),3,2804,85566,Campagne,75,1,Monospace,Hybride,Automatique,5,4,3,1
+881,39,Homme,Marié(e),2,1426,40000,Ville,85,1,SUV,Essence,Manuelle,5,4,3,2
+882,57,Homme,Marié(e),2,2237,60984,Sport,19,1,Coupé,Electrique,Manuelle,5,5,1,5
+883,30,Femme,Célibataire,0,3041,55551,Montagne,92,0,SUV,Essence,Manuelle,3,3,1,4
+884,53,Femme,Marié(e),2,2521,72836,Plage,66,0,SUV,Diesel,Manuelle,2,1,3,2
+885,63,Homme,Célibataire,0,1073,40000,Sport,106,0,Coupé,Diesel,Automatique,5,3,3,4
+886,54,Femme,Célibataire,0,3152,51564,Campagne,94,0,Utilitaire,Essence,Automatique,2,5,4,1
+887,59,Femme,Marié(e),3,1523,40000,Montagne,45,1,Minibus,Electrique,Manuelle,5,3,5,4
+888,34,Femme,Célibataire,0,1388,40000,Désert,104,0,SUV,Hybride,Manuelle,2,2,1,1
+889,35,Homme,Marié(e),2,1777,58166,Sport,60,1,Cabriolet,Electrique,Manuelle,1,2,5,3
+890,54,Homme,Célibataire,0,2267,43361,Montagne,127,1,Pick up,Electrique,Manuelle,4,5,2,4
+891,57,Femme,Marié(e),2,4773,130433,Ville,102,0,Berline,Essence,Automatique,3,1,3,4
+892,28,Homme,Célibataire,0,9609,158759,Désert,121,1,SUV,Electrique,Automatique,1,3,2,3
+893,35,Homme,Divorcé(e),2,1024,40000,Désert,147,1,SUV,Essence,Automatique,1,2,4,5
+894,39,Homme,Marié(e),2,6012,116088,Désert,49,0,Pick up,Essence,Automatique,4,4,4,4
+895,58,Homme,Marié(e),4,8114,238368,Campagne,16,1,Monospace,Essence,Manuelle,2,2,4,1
+896,57,Femme,Marié(e),2,8195,182590,Plage,146,0,Coupé,Hybride,Manuelle,5,2,3,3
+897,42,Femme,Célibataire,0,2323,70494,Campagne,69,0,Utilitaire,Hybride,Manuelle,3,4,1,5
+898,43,Femme,Marié(e),2,1572,51553,Autoroute,57,1,Minibus,Diesel,Manuelle,5,2,5,2
+899,27,Femme,Marié(e),4,3028,51707,Ville,100,1,Monospace,Diesel,Automatique,3,4,1,3
+900,55,Femme,Célibataire,0,1335,40000,Montagne,41,0,Pick up,Diesel,Automatique,1,5,1,4
+901,41,Homme,Marié(e),1,1295,44070,Campagne,23,0,SUV,Essence,Automatique,3,1,2,2
+902,38,Femme,Divorcé(e),1,2550,40000,Plage,127,1,Citadine,Electrique,Manuelle,3,2,3,4
+903,62,Homme,Marié(e),4,2339,40000,Montagne,130,0,Monospace,Hybride,Automatique,4,5,5,3
+904,46,Homme,Divorcé(e),2,1932,49989,Ville,125,0,Utilitaire,Essence,Manuelle,4,3,2,5
+905,42,Femme,Marié(e),2,3413,79223,Ville,75,1,Compacte,Essence,Manuelle,1,5,2,4
+906,56,Homme,Célibataire,0,1612,53268,Autoroute,44,0,Compacte,Essence,Manuelle,5,3,4,1
+907,34,Femme,Célibataire,0,14214,470599,Sport,131,0,Cabriolet,Essence,Manuelle,2,2,3,5
+908,50,Homme,Célibataire,0,13416,352242,Désert,32,1,Pick up,Electrique,Manuelle,1,5,3,5
+909,48,Femme,Célibataire,0,4597,74947,Autoroute,11,0,Coupé,Hybride,Manuelle,5,2,2,1
+910,27,Homme,Marié(e),1,9617,251459,Désert,56,0,SUV,Diesel,Manuelle,1,5,1,2
+911,41,Homme,Marié(e),1,2989,91946,Ville,127,1,Minibus,Electrique,Automatique,3,2,3,2
+912,35,Homme,Marié(e),2,1606,40000,Montagne,136,0,SUV,Diesel,Automatique,5,2,1,4
+913,58,Homme,Célibataire,0,9427,318181,Sport,12,0,Cabriolet,Hybride,Automatique,4,1,3,4
+914,64,Femme,Célibataire,0,5587,137369,Sport,24,1,Cabriolet,Diesel,Automatique,5,5,3,4
+915,60,Homme,Célibataire,0,5885,179247,Ville,142,1,Compacte,Electrique,Manuelle,3,4,3,3
+916,60,Femme,Divorcé(e),2,2897,65825,Sport,137,0,Coupé,Hybride,Manuelle,1,4,3,5
+917,38,Femme,Divorcé(e),2,1833,40000,Autoroute,110,1,Utilitaire,Diesel,Manuelle,3,2,3,5
+918,38,Femme,Marié(e),1,1470,45635,Montagne,123,0,Pick up,Diesel,Manuelle,5,5,3,2
+919,29,Femme,Marié(e),1,9028,168476,Montagne,122,1,Pick up,Electrique,Automatique,4,4,3,5
+920,56,Femme,Célibataire,0,2442,76342,Désert,75,1,SUV,Essence,Automatique,3,4,4,5
+921,34,Femme,Célibataire,0,13253,227442,Désert,18,1,Pick up,Electrique,Automatique,2,2,1,3
+922,24,Homme,Célibataire,0,1292,43301,Montagne,91,1,Pick up,Diesel,Automatique,5,1,1,1
+923,40,Femme,Célibataire,0,1992,66845,Autoroute,48,1,Utilitaire,Diesel,Automatique,5,5,3,2
+924,35,Homme,Divorcé(e),0,7920,247032,Ville,47,0,Citadine,Diesel,Manuelle,2,2,4,5
+925,36,Femme,Célibataire,0,3274,105481,Sport,118,1,Cabriolet,Hybride,Automatique,2,1,1,4
+926,31,Femme,Marié(e),3,2012,40000,Montagne,104,1,Monospace,Hybride,Manuelle,3,1,4,5
+927,60,Homme,Célibataire,0,2446,44927,Désert,79,0,SUV,Diesel,Manuelle,3,4,3,2
+928,46,Femme,Divorcé(e),1,1164,40000,Sport,116,1,Coupé,Hybride,Manuelle,3,4,1,4
+929,49,Homme,Célibataire,0,1964,48256,Campagne,28,0,SUV,Diesel,Automatique,4,3,1,2
+930,27,Homme,Célibataire,0,1510,40000,Sport,138,1,Cabriolet,Electrique,Automatique,2,4,3,2
+931,26,Homme,Marié(e),2,1620,40000,Désert,22,0,Pick up,Diesel,Automatique,1,2,5,1
+932,39,Homme,Marié(e),3,2411,71038,Campagne,136,0,Minibus,Diesel,Automatique,1,3,2,3
+933,54,Homme,Célibataire,0,1441,40000,Plage,68,1,Coupé,Electrique,Manuelle,2,4,2,1
+934,32,Homme,Célibataire,0,2787,71285,Désert,108,1,Pick up,Hybride,Manuelle,5,3,5,5
+935,55,Femme,Célibataire,0,1049,40000,Plage,81,1,Coupé,Electrique,Automatique,5,4,4,4
+936,45,Homme,Célibataire,0,2683,81835,Sport,9,0,Coupé,Hybride,Automatique,3,4,2,2
+937,50,Femme,Célibataire,0,1738,42174,Désert,94,1,SUV,Diesel,Automatique,1,3,3,1
+938,46,Femme,Célibataire,0,12538,307709,Sport,47,0,Cabriolet,Essence,Manuelle,3,2,3,5
+939,28,Homme,Marié(e),2,2986,57850,Plage,93,1,Coupé,Essence,Manuelle,4,3,5,4
+940,40,Femme,Célibataire,0,2695,81307,Désert,41,0,SUV,Essence,Automatique,4,3,4,3
+941,34,Homme,Marié(e),1,1080,40000,Campagne,150,1,SUV,Hybride,Automatique,4,2,4,5
+942,35,Homme,Divorcé(e),0,2876,88408,Campagne,100,1,Pick up,Diesel,Manuelle,1,1,4,3
+943,38,Femme,Marié(e),1,3315,84204,Autoroute,89,1,Cabriolet,Diesel,Automatique,1,4,4,3
+944,53,Femme,Célibataire,0,7722,132277,Campagne,143,1,Utilitaire,Diesel,Automatique,2,4,2,1
+945,48,Femme,Célibataire,0,1565,42976,Montagne,111,1,SUV,Electrique,Automatique,4,4,4,2
+946,52,Homme,Célibataire,0,2892,94227,Désert,47,1,Pick up,Diesel,Manuelle,4,2,3,2
+947,32,Femme,Marié(e),3,1237,40000,Ville,125,0,SUV,Hybride,Manuelle,1,2,1,1
+948,24,Homme,Célibataire,0,2363,66922,Ville,26,0,Citadine,Diesel,Manuelle,3,1,1,5
+949,61,Homme,Marié(e),1,2500,78709,Désert,77,1,SUV,Electrique,Manuelle,5,5,1,5
+950,30,Homme,Célibataire,0,3008,50902,Plage,120,1,Utilitaire,Electrique,Automatique,4,3,2,4
+951,44,Femme,Célibataire,0,1863,57539,Sport,14,1,Cabriolet,Electrique,Automatique,2,4,2,2
+952,27,Homme,Marié(e),0,2738,47975,Montagne,116,1,SUV,Electrique,Manuelle,3,5,2,4
+953,48,Homme,Divorcé(e),1,3307,69615,Montagne,93,0,SUV,Hybride,Automatique,3,2,4,2
+954,25,Homme,Marié(e),3,2938,71305,Désert,150,1,Minibus,Electrique,Manuelle,2,3,4,3
+955,33,Homme,Marié(e),1,1281,40000,Autoroute,76,0,Compacte,Essence,Automatique,2,5,5,4
+956,33,Femme,Célibataire,0,2304,71433,Autoroute,42,1,Coupé,Essence,Automatique,4,5,2,2
+957,65,Femme,Marié(e),3,13535,453849,Campagne,121,0,Monospace,Essence,Manuelle,5,5,3,5
+958,40,Femme,Célibataire,0,4529,110916,Désert,81,0,Pick up,Diesel,Manuelle,5,2,4,3
+959,36,Femme,Célibataire,0,1808,61544,Désert,142,1,SUV,Hybride,Automatique,4,1,1,3
+960,23,Femme,Marié(e),2,3276,63122,Montagne,144,0,Pick up,Essence,Automatique,4,5,3,2
+961,22,Femme,Célibataire,0,3839,65221,Montagne,57,0,Pick up,Diesel,Manuelle,3,4,2,4
+962,45,Homme,Marié(e),1,14831,385214,Ville,50,0,SUV,Diesel,Automatique,1,2,1,3
+963,50,Femme,Célibataire,0,11124,280498,Désert,53,1,Pick up,Essence,Manuelle,1,3,2,4
+964,23,Homme,Divorcé(e),0,3038,95102,Plage,31,1,Utilitaire,Hybride,Manuelle,1,3,4,4
+965,35,Homme,Célibataire,0,14926,243861,Montagne,15,0,SUV,Hybride,Manuelle,4,3,3,2
+966,50,Homme,Célibataire,0,9604,268665,Désert,138,1,SUV,Electrique,Manuelle,1,2,1,5
+967,57,Homme,Marié(e),2,3159,93247,Autoroute,80,0,SUV,Essence,Manuelle,2,3,5,4
+968,28,Homme,Divorcé(e),1,14902,300508,Désert,24,1,SUV,Electrique,Manuelle,4,1,5,3
+969,53,Femme,Marié(e),1,2067,44554,Montagne,90,1,SUV,Diesel,Automatique,3,1,1,3
+970,29,Homme,Marié(e),2,1101,40000,Sport,112,1,Coupé,Electrique,Manuelle,1,4,1,3
+971,27,Femme,Célibataire,0,3309,49900,Désert,45,0,SUV,Hybride,Manuelle,4,5,1,3
+972,27,Femme,Célibataire,0,1325,40000,Ville,6,1,Compacte,Diesel,Automatique,2,5,2,4
+973,58,Homme,Célibataire,0,3411,96659,Campagne,78,1,Utilitaire,Electrique,Manuelle,2,4,5,4
+974,39,Homme,Marié(e),3,7678,214728,Désert,52,0,SUV,Essence,Manuelle,5,2,3,2
+975,64,Homme,Célibataire,0,4263,126291,Montagne,58,0,Pick up,Diesel,Automatique,3,1,5,1
+976,22,Femme,Célibataire,0,1404,45455,Autoroute,104,1,Pick up,Hybride,Manuelle,4,2,2,2
+977,34,Homme,Célibataire,1,1932,40000,Désert,110,0,SUV,Essence,Automatique,4,5,3,2
+978,40,Homme,Célibataire,0,11254,345654,Plage,75,1,SUV,Hybride,Manuelle,3,2,4,2
+979,46,Femme,Célibataire,0,3781,115774,Montagne,73,1,Pick up,Hybride,Automatique,5,5,2,1
+980,55,Femme,Marié(e),1,2170,64943,Ville,140,0,SUV,Essence,Automatique,3,3,2,5
+981,62,Femme,Divorcé(e),0,8864,269198,Sport,83,1,Cabriolet,Electrique,Automatique,4,2,2,1
+982,49,Femme,Marié(e),1,2546,72298,Plage,67,1,Cabriolet,Electrique,Automatique,4,4,5,2
+983,42,Homme,Marié(e),1,12225,264898,Campagne,110,0,Pick up,Essence,Automatique,1,5,2,2
+984,35,Femme,Célibataire,1,3146,74955,Campagne,7,1,SUV,Diesel,Automatique,3,1,1,3
+985,29,Femme,Marié(e),3,5032,109779,Campagne,16,1,Minibus,Essence,Automatique,3,5,5,2
+986,39,Homme,Marié(e),2,2905,91046,Campagne,76,1,Pick up,Electrique,Automatique,1,5,5,2
+987,22,Femme,Marié(e),3,12615,364810,Ville,64,0,Minibus,Essence,Automatique,3,2,2,2
+988,33,Homme,Marié(e),1,1150,40000,Campagne,115,0,Utilitaire,Diesel,Automatique,1,2,3,3
+989,26,Homme,Célibataire,0,3083,57041,Sport,111,0,Cabriolet,Essence,Automatique,2,2,1,2
+990,49,Homme,Marié(e),1,12594,411528,Plage,60,1,Cabriolet,Electrique,Manuelle,2,5,5,5
+991,50,Femme,Célibataire,0,2193,44308,Campagne,124,0,Utilitaire,Essence,Automatique,4,3,4,5
+992,59,Homme,Marié(e),0,3085,104863,Ville,64,0,Compacte,Hybride,Automatique,1,5,2,5
+993,37,Homme,Marié(e),2,7457,192241,Ville,50,0,Coupé,Essence,Manuelle,3,3,5,2
+994,49,Femme,Marié(e),1,7113,206102,Ville,87,1,Minibus,Diesel,Manuelle,1,4,5,1
+995,32,Femme,Divorcé(e),0,947,40000,Sport,26,0,Coupé,Essence,Automatique,3,2,5,1
+996,52,Homme,Célibataire,0,1134,40000,Montagne,79,1,SUV,Diesel,Manuelle,3,4,1,5
+997,38,Homme,Célibataire,0,3260,84108,Autoroute,15,1,Monospace,Essence,Automatique,2,3,5,5
+998,46,Femme,Célibataire,0,3354,53587,Montagne,137,1,Pick up,Diesel,Manuelle,3,3,1,3
+999,55,Homme,Célibataire,0,1511,46771,Plage,101,1,Utilitaire,Electrique,Manuelle,1,3,3,2
+1000,24,Homme,Marié(e),0,2580,69768,Plage,37,0,Minibus,Hybride,Manuelle,1,5,5,2
